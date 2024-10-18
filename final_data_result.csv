@@ -1,0 +1,663 @@
+,Unnamed: 0.1,Job Title,Company,location,site,jobtype,health_insurance,Dental_insurance,years of experience,benefits_401k,stocks,date_posted,lower_limit_salary,upper_limit_salary
+0,0,Quantitative Analyst,American Century Investments,Santa Clara,LinkedIn,Full-time,0,0,0,0,1,3,259200,316800.0
+1,1,"Quantitative Marketing Analyst, Google, Search Marketing",Google,Mountain View,LinkedIn,Full-time,1,0,0,0,1,10,87000,128000.0
+2,2,Quant Analyst,"Software Guidance & Assistance, Inc. (SGA, Inc.)",San Jose,LinkedIn,Full-time,0,0,3,0,1,23,96000,109440.0
+3,3,Quantitative Researcher,MSCI Inc.,Berkeley,Glassdoor,Full-time,1,0,0,1,1,5,149000,194000.0
+4,4,Associate Quantitative Analytics and Forecasting Director,Exelixis,Alameda,LinkedIn,Full-time,1,1,7,1,1,2,171000,243000.0
+9,9,Senior Quantitative Analyst,Unreal Gigs,San Francisco,JobServe,Full-time,1,1,5,1,0,6,150000,200000.0
+10,10,Principal Quantitative Analyst,Pacific Gas and Electric,Oakland,JobzMall,Full-time,0,0,0,0,0,30,147000,189000.0
+11,11,Quantitative analyst,Unreal Gigs,San Francisco,Talent.com,Full-time,1,1,8,1,1,15,170000,230000.0
+12,12,Lead Quantitative Risk Analyst,Earnest,Anywhere • via LinkedIn,LinkedIn,Full-time,1,1,6,1,1,16,191000,216000.0
+13,13,"Analyst, Quantitative Data Operations",Fidelity Investments,San Francisco,JobzMall,Full-time,0,0,0,1,1,30,85000,125000.0
+16,16,"Associate, Quantitative Researcher",BlackRock,Palo Alto,JobzMall,Full-time,0,0,0,1,1,30,120000,160000.0
+18,18,Quantitative Researcher,American Century Investments,Santa Clara,LinkedIn,Full-time,0,0,5,1,1,10,120000,140000.0
+20,20,Quantitative Risk Analyst Intern,First Citizens Bank,California • via First Citizens Careers - First Citizens Bank,First Citizens Careers - First Citizens Bank,Full-time,1,0,1,0,0,3,42240,65280.0
+21,21,"Lead Analyst, Data Management & Quantitative Analysis",BNY Mellon,San Francisco,The Muse,Full-time,0,0,0,0,0,30,81328,170000.0
+23,23,Quantitative Analytics Manager,Affirm,Anywhere • via LinkedIn,LinkedIn,Full-time,1,1,7,0,1,9,205000,205000.0
+24,24,Lead Quantitative Analyst,Unreal Gigs,San Francisco,Jooble,Full-time,1,1,8,0,1,4,170000,230000.0
+25,25,Quantitative Business Analyst,Apple,Cupertino,JobzMall,Full-time,0,0,0,0,0,30,110000,135000.0
+26,26,Senior Quantitative Analyst,Unreal Gigs,San Francisco,Jooble,Full-time,1,1,5,1,0,30,150000,200000.0
+27,27,AI Quantitative Strategist,WorldQuant,San Francisco,LinkedIn,Full-time,1,1,2,1,0,8,150000,200000.0
+28,28,Quantitative Revenue Analyst,YouTube,San Bruno,JobzMall,Full-time and Part-time,0,0,0,1,0,30,148000,169000.0
+30,30,Retirement Solutions Researcher - Actuarial and Quantitative Finance,Blackrock,San Francisco,Get.It,Full-time and Contractor,1,0,5,0,0,8,148000,210000.0
+31,31,Policy Analyst: Quantitative | Stanford University,Stanford University,Stanford,Jooble,Full-time,1,0,2,0,0,24,76000,95000.0
+33,33,Quantitative Revenue Analyst,YouTube,San Bruno,JobzMall,Full-time,0,0,0,0,0,30,63000,72000.0
+34,34,Financial Analyst,Robert Half,Berkeley,Robert Half,Full-time,0,0,0,0,0,18,75000,80000.0
+35,35,"Director, Quant Development",Fidelity Investments,San Francisco,JobzMall,Full-time,0,0,0,0,1,30,180000,250000.0
+36,36,Quantitative Developer,Point72,San Francisco,LinkedIn,Full-time,1,0,0,0,1,16,150000,250000.0
+37,37,Associate Quantitative Analytics & Forecasting Director,Exelixis,Oakland,Learn4Good,Full-time,0,0,7,0,1,3,151000,214000.0
+40,40,Crypto investment analyst jobs,Google,Mountain View,Coyodywoodcraft.com,Full-time,0,0,0,1,1,4,76800,76800.0
+41,41,Book Portfolio Manager,WorldQuant,San Francisco,LinkedIn,Full-time,1,1,2,1,0,20,150000,200000.0
+42,42,"Analysis & Modeling Risk Analyst, Expert",PG&E Corporation,Auburn,Glassdoor,Full-time,0,0,0,1,0,27,116000,194000.0
+43,43,Financial Analyst,NuFarm,West Sacramento,Indeed,Full-time,0,0,0,1,0,30,70000,110000.0
+45,45,"Associate, Quantitative Researcher",BlackRock,San Francisco,JobzMall,Full-time,0,0,0,1,1,30,150000,250000.0
+47,47,"Staff Quantitative Product Researcher, Shopping",Pinterest,Anywhere • via Indeed,Indeed,Full-time,0,0,5,1,1,30,288000,278.0
+51,51,Senior Quantitative Researcher - Brand & Reputation,Netflix,Los Angeles,JobzMall,Full-time,0,0,0,0,0,30,116000,165000.0
+53,53,Senior Quantitative Researcher - Futures,Algo Capital Group,United States • via LinkedIn,LinkedIn,Full-time,0,0,0,0,0,14,450,750.0
+54,54,"Associate, Quantitative Researcher",BlackRock,Los Angeles,JobzMall,Full-time,0,0,0,0,0,30,98000,125000.0
+57,57,Quantitative Researcher with QResearch Software Expertise,Upwork,Anywhere • via Upwork,Upwork,Contractor,0,0,0,0,0,5,28800,76800.0
+59,59,Quantitative Research - Global Clearing - Associate,JPMorganChase,United States • via Glassdoor,Glassdoor,Full-time,1,1,0,0,0,11,95000,125000.0
+62,62,Systematic Credit Quantitative Researcher,GQR,New York,GQR,Full-time,1,0,3,0,1,30,200000,270000.0
+64,64,"Quantitative Research Analyst - Jersey City, NJ",Stevens Capital Management LP,Jersey City,ZipRecruiter,Full-time,1,1,0,1,1,30,150000,300000.0
+65,65,MLRC Quantitative Research Director,University of Wisconsin-Madison,Madison,Chronicle Of Higher Education,Full-time,0,0,0,1,1,30,100000,100000.0
+67,67,Quantitative Researcher (Power),Comity,New York,ClimateTechList,Full-time,0,0,3,0,0,1,268800,345600.0
+69,69,Systematic Quant Research Analyst,PIMCO,Newport Beach,Indeed,Full-time,0,0,3,1,1,30,165000,225000.0
+70,70,Sr. Quantitative Survey Researcher,Gartner,United States • via Adzuna,Adzuna,Full-time,1,0,0,1,1,29,7200,7200.0
+72,72,Quantitative Researcher,EXCH The NASDAQ Stock Market LLC,Atlanta,ZipRecruiter,Full-time,1,1,0,1,1,30,19200,19200.0
+76,76,Quantitative Researcher,Goliath Partners,Chicago,Goliath Partners,Full-time,1,0,3,1,0,30,650,5760.0
+78,78,Senior Quantitative Researcher (Remote),Panasonic North America,Anywhere • via LinkedIn,LinkedIn,Full-time,1,0,5,0,1,10,130000,150000.0
+84,84,"Associate, Quantitative Researcher",BlackRock,Philadelphia,JobzMall,Full-time,0,0,0,0,1,30,90000,155000.0
+86,86,"Senior Quantitative Researcher, Equities",Quest Partners LLC,New York,ZipRecruiter,Full-time,1,0,0,0,1,30,200000,260000.0
+88,88,Equity Options Quantitative Researcher,Two Sigma,New York,LinkedIn,Full-time,1,1,3,1,1,7,165000,325000.0
+89,89,Senior Quantitative Researcher Equities,Stevens Capital Management LP,Wayne,Greenhouse,Full-time,1,1,5,1,1,30,150000,300000.0
+92,92,Quantitative Research Analyst,J.P. Morgan Chase & Co.,Plano,JobzMall,Full-time,0,0,0,0,1,30,65000,120000.0
+93,93,Quantitative Researcher - Leading Global Hedge Fund - Up to $300k base comp + bonus,Mondrian Alpha,New York,LinkedIn,Full-time,0,0,0,1,1,12,300,300.0
+96,96,Quantitative Research Analyst,Tower Research,Charleston,Karkidi,Full-time,1,0,3,0,0,30,120000,200000.0
+100,100,"Analyst, Quantitative Research, Equities - Asset Management",Principal Financial Group,Seattle,LinkedIn,Full-time,0,0,3,0,1,4,86450,147600.0
+101,101,Quantitative Researcher Intern,Xantium,New York,ZipRecruiter,Full-time,0,0,0,0,1,30,10000,15000.0
+103,103,Sr. Quantitative Survey Researcher,Gartner Careers,Irving,Gartner,Full-time,1,0,0,1,1,18,7200,7200.0
+104,104,Quantitative Researcher,Vanguard,Scottsdale,JobzMall,Full-time,0,0,0,1,1,30,85000,150000.0
+106,106,Quantitative Researcher and Developer,Open Systems Technologies,New York,Open Systems Technologies,Full-time,0,0,3,0,0,30,200,280.0
+109,109,"Associate, Quantitative Researcher, Credit Systematic Market Making",The Goldman Sachs Group,New York,JobzMall,Full-time,0,0,0,0,0,30,90000,150000.0
+110,110,Global Quantitative Strategies | Quantitative Research Engineer,Citadel,Chicago,Citadel,Full-time,1,0,0,0,0,3,200000,225000.0
+113,113,Quantitative Analyst - CIO Office,Point72,New York,LinkedIn,Full-time,1,0,0,1,0,30,175000,300000.0
+115,115,Quantitative Researcher – 2025 PhD Graduate,Citadel Securities,Miami,Indeed,Full-time,1,0,0,0,0,30,225000,300000.0
+117,117,"Senior Quantitative Researcher Futures - Jersey City, NJ",Stevens Capital Management LP,Jersey City,ZipRecruiter,Full-time,1,1,5,1,0,30,150000,300000.0
+118,118,"Associate, Quantitative Researcher",BlackRock,Boston,JobzMall,Full-time,0,0,0,1,0,30,113000,150000.0
+121,121,Quantitative Research - Options Electronic Trading,Chase Bank,Seattle,JobzMall,Full-time,0,0,0,1,1,30,150000,300000.0
+122,122,Quantitative Researcher,Nasdaq,Philadelphia,ZipRecruiter,Full-time,1,1,0,1,1,30,19200,19200.0
+123,123,Quant Researcher,Candidate Portal,New York,ZipRecruiter,Full-time,0,0,0,1,1,30,200,200.0
+124,124,Senior Quantitative Researcher - Systematic Credit,Algo Capital Group,Chicago,LinkedIn,Full-time,0,0,0,0,1,14,350,650.0
+125,125,Quantitative Analyst,American Century Investments,Santa Clara,LinkedIn,Full-time,0,0,0,1,1,3,259200,316800.0
+127,127,Quantitative Researcher,MSCI Inc.,Berkeley,Glassdoor,Full-time,1,0,0,1,1,5,149000,194000.0
+128,128,Quantitative Researcher,American Century Investments,Santa Clara,LinkedIn,Full-time,0,0,0,0,1,10,149000,162000.0
+129,129,Quantitative Researcher,MSCI Inc.,Berkeley,Indeed,Full-time,1,0,5,0,1,5,149000,194000.0
+130,130,Quantitative Research Associate,Stanford University,Stanford,Inside Higher Ed Careers,Full-time,1,0,2,0,0,30,800,800.0
+131,131,"Associate, Quantitative Researcher",BlackRock,Palo Alto,JobzMall,Full-time,0,0,0,1,1,30,120000,160000.0
+132,132,Associate Quantitative Analytics and Forecasting Director,Exelixis,Alameda,LinkedIn,Full-time,1,1,7,1,1,2,171000,243000.0
+133,133,"Lead Product Researcher, Quantitative",Snap Inc.,Palo Alto,Built In San Francisco,Full-time,1,0,6,1,1,2,143000,252000.0
+135,135,Policy Analyst: Quantitative,Stanford University,Stanford,ZipRecruiter,Full-time,1,0,2,1,1,30,76000,95000.0
+136,136,Quantitative Researcher,MSCI,Berkeley,Msci,Full-time,1,0,0,1,0,21,144000,187000.0
+139,139,"Quantitative Marketing Analyst, Google, Search Marketing",Google,Mountain View,LinkedIn,Full-time,1,0,0,0,1,10,87000,128000.0
+141,141,"Associate, Quantitative Researcher",BlackRock,San Francisco,JobzMall,Full-time,0,0,0,0,0,30,150000,250000.0
+143,143,Quant Analyst,"Software Guidance & Assistance, Inc. (SGA, Inc.)",San Jose,LinkedIn,Full-time,0,0,3,0,0,23,96000,109440.0
+146,146,Senior Quantitative Developer - BQuant Research Platform,Bloomberg L.P.,San Francisco,Dice.com,Full-time,1,1,4,1,1,30,240,240.0
+147,147,"Staff Quantitative Product Researcher, Shopping",Pinterest,Anywhere • via Indeed,Indeed,Full-time,0,0,5,1,0,30,288000,278.0
+148,148,"Analyst, Quantitative Data Operations",Fidelity Investments,San Francisco,JobzMall,Full-time,0,0,0,1,1,30,85000,125000.0
+149,149,Lead Quantitative Risk Analyst,Earnest,Anywhere • via LinkedIn,LinkedIn,Full-time,1,1,6,1,1,16,191000,216000.0
+151,151,"Lead Product Researcher, Quantitative",Snap Inc.,San Francisco,LinkedIn,Full-time,1,0,6,0,0,18,168000,252000.0
+154,154,Sr. Staff Quantitative Product Researcher,Pinterest,Anywhere • via ZipRecruiter,ZipRecruiter,Full-time,0,0,7,0,1,10,158950,327000.0
+156,156,"Senior Quantitative Researcher at Russell Tobin Menlo Park, CA",Russell Tobin,Menlo Park,Pocahontas County Assessor's Office,Full-time,1,1,5,1,1,2,153600,176640.0
+157,157,Lead Quantitative Analyst,Unreal Gigs,San Francisco,Jooble,Full-time,1,1,8,1,1,4,170000,230000.0
+159,159,Quantitative Researcher / Modeler,Moody’s Corporation,San Francisco,Karkidi,Full-time,0,0,0,1,1,30,120000,190000.0
+161,161,Senior Quantitative User Researcher,Mozilla Corporation,Anywhere • via Karkidi,Karkidi,Full-time,0,0,0,0,1,30,126000,246000.0
+163,163,Book Portfolio Manager,WorldQuant,San Francisco,LinkedIn,Full-time,1,1,2,1,1,20,150000,200000.0
+165,165,User Research Data Analyst,Tik Tok,Mountain View,JobzMall,Full-time,0,0,0,1,0,30,87000,122000.0
+167,167,Business Intelligence Analyst,Apple,Cupertino,Careers At Apple,Full-time,1,1,3,0,1,24,180128,201300.0
+168,168,"Business Intelligence/Data Analyst, Customer Success",Block,San Francisco,LinkedIn,Full-time,0,0,3,0,1,2,111700,167500.0
+172,172,Business Intelligence Senior Analyst,City National Bank,San Francisco,City National Bank,Full-time,0,0,6,0,0,30,92114,156880.0
+173,173,Business Intelligence Analyst,SLAC National Accelerator Laboratory,Menlo Park,Indeed,Full-time,0,0,0,0,1,16,151680,362880.0
+174,174,Business Intelligence Analyst / Job Req 604260037,ALAMEDA ALLIANCE FOR HEALTH,Alameda,Glassdoor,Full-time,0,0,0,0,1,30,853,303360.0
+175,175,Business Intelligence Analyst 3: 24-02026,Akraya Inc.,Santa Clara,Akraya,Contractor,0,0,5,0,0,30,115200,124800.0
+176,176,Data & Business Intelligence Analyst,Candidate Portal,Anywhere • via ZipRecruiter,ZipRecruiter,Full-time,1,1,7,0,0,17,94080,111360.0
+181,181,Growth Architect - Business Intelligence Analyst,GlacierGrid,San Francisco,ZipRecruiter,Full-time,0,0,3,0,1,2,158642,158642.0
+182,182,"Business Intelligence Analyst, Trust & Safety - USDS",TikTok,Mountain View,Indeed,Full-time,1,1,0,0,1,30,400,339840.0
+184,184,"Sr. Business Intelligence Analyst, eComm",Albertsons Companies,Pleasanton,Eofd.fa.us6.Oraclecloud.com,Full-time,1,1,2,1,0,23,92000,119720.0
+185,185,Business Intelligence Analyst / Job Req 604260037,ALAMEDA ALLIANCE FOR HEALTH,Alameda,Indeed,Contractor,0,0,0,1,0,30,7680,303360.0
+187,187,Business Intelligence Analyst,QuinStreet,Foster City,ZipRecruiter,Full-time,1,0,0,1,1,29,95000,125000.0
+188,188,Business Intelligence Analyst,Check,San Francisco,Greenhouse,Full-time,1,1,0,1,1,30,95000,125000.0
+192,192,Sr./Principal Business Intelligence Analyst,Workday,Pleasanton,JobzMall,Full-time,0,0,0,0,0,30,105000,125000.0
+194,194,Business Intelligence Analyst,On Lok,San Francisco,LinkedIn,Full-time,1,1,3,0,0,24,94080,124800.0
+195,195,Principal Business Systems & Intelligence Analyst,"Matson Navigation Company, Inc",Oakland,Jobvite,Full-time,0,0,8,0,1,30,111300,151500.0
+196,196,"Senior Manager, People Analytics Business Intelligence",Adobe,San Jose,Adobe Careers,Full-time,0,0,7,0,1,3,130300,245300.0
+200,200,Staff Business Intelligence Analyst,Waymo,Mountain View,Ladders,Full-time,1,0,8,1,1,30,190000,238000.0
+204,204,Sr. Business Intelligence Analyst,Adobe,San Jose,JobzMall,Full-time,0,0,0,0,0,30,267,280320.0
+205,205,"Data Analyst, Sales Analytics",Lucid,Newark,DataAnalyst.com,Full-time,0,0,3,1,1,9,108000,146000.0
+206,206,Senior Business Intelligence Analyst GTM,Druva,Santa Clara,Ladders,Full-time,1,1,5,1,1,30,135000,189000.0
+207,207,Business Intelligence Analyst,Box,Redwood City,JobzMall,Full-time,0,0,0,1,1,30,82000,118000.0
+209,209,Business Intelligence Data Analyst - Global Monetization Product & Tech,TikTok,San Jose,Indeed,Full-time,1,1,5,0,1,30,147000,270000.0
+210,210,AppleCare Business Intelligence Analyst,Apple,Santa Clara,JobzMall,Full-time,0,0,0,0,1,30,72000,90000.0
+212,212,Sales Business Intelligence Manager,Snowflake,San Mateo,Snowflake Careers,Full-time,1,1,5,1,1,12,139000,194200.0
+216,216,Business Intelligence Analyst,Stanford University,Stanford,JobzMall,Full-time,0,0,0,0,0,30,81000,135000.0
+220,220,Business Intelligence Engineer,Amazon,Cupertino,LinkedIn,Full-time,1,1,3,1,1,2,89600,185000.0
+222,222,Business Intelligence Analyst III,"Albertsons Companies, Inc.",Pleasanton,Karkidi,Full-time,0,0,2,0,0,30,120000,190000.0
+223,223,Data Analyst,Tesla,Fremont,JobzMall,Full-time,0,0,0,1,0,30,747,234240.0
+224,224,Marketing Business Intelligence Analyst,Williams Sonoma,San Francisco,Indeed,Full-time,1,1,0,1,0,25,75000,85000.0
+226,226,"Senior Business Intelligence Analyst, Service",Bloom Energy,San Jose,Karkidi,Full-time,0,0,2,0,0,30,160000,240000.0
+229,229,Business Intelligence Analyst - Marketing,Slack,San Francisco,JobzMall,Full-time,0,0,0,1,0,30,71040,226560.0
+230,230,Marketing Business Intelligence Analyst,Rejuvenation,Anywhere • via ZipRecruiter,ZipRecruiter,Full-time,1,1,0,1,0,24,75000,85000.0
+231,231,Growth & BI Analyst,ICONMA,Sunnyvale,LinkedIn,Full-time,0,0,5,1,0,15,59520,151680.0
+235,235,Senior Systems Analyst,City of Berkeley,Berkeley,GovernmentJobs.com,Full-time,0,0,0,0,0,30,36480,284160.0
+237,237,"Data Analyst, BI",Checkr,San Francisco,ZipRecruiter,Contractor,1,1,4,0,1,4,48000,48000.0
+238,238,Entry Level Business/Data Analyst,SynergisticIT,San Mateo,LinkedIn,Full-time,0,0,0,0,1,30,192000,192000.0
+239,239,"Staff Business Data Analyst, Product Analytics",Intuit,Mountain View,JobzMall,Full-time,0,0,0,0,1,30,90000,120000.0
+240,240,"Business Intelligence Engineer, Alexa, Fire TV, Appstore, Luna",Amazon,Sunnyvale,LinkedIn,Full-time,1,0,3,0,1,8,89600,185000.0
+242,242,Pricing & Yield Analyst,Doximity,San Francisco,Work @ Doximity,"Full-time, Part-time, and Contractor",1,1,5,1,1,30,108000,150000.0
+243,243,Salesforce Data Analyst,Apollose,San Jose,OPTnation,Full-time,0,0,0,1,1,30,103000,104000.0
+245,245,BI Analyst,"Albertsons Companies, Inc.",Pleasanton,Karkidi,Contractor,0,0,5,0,0,30,120000,190000.0
+247,247,Business Intelligence Analyst,Informative Research,Sacramento,Monster,Contractor,1,1,2,0,1,30,72500,108300.0
+248,248,Data & Business Intelligence Analyst,Cypress HCM,Sunnyvale,Avionte,Full-time,0,0,2,0,1,30,111360,
+250,250,"Senior Business Intelligence Engineer, PLX Finance BI",Amazon,Sunnyvale,LinkedIn,Full-time,1,0,5,0,1,7,117300,202800.0
+251,251,Staff Strategy and Business Intelligence Analyst,Sunrun,California (+1 other) • via Sunrun,Sunrun,Full-time,1,1,5,0,1,30,103221,137628.0
+253,253,Business Intelligence Analyst,Harbor Wholesale Foods,Modesto,Jooble,Full-time,1,1,3,1,0,30,163200,220800.0
+256,256,Intern - Market Intelligence Analyst,Micron Technology,Folsom,Jobs At Micron Technology,Full-time,1,1,0,0,1,6,69120,88320.0
+259,259,Senior Business Data Analyst,Intuit,San Francisco,JobzMall,Full-time,0,0,0,1,0,30,100000,150000.0
+260,260,Oracle HCMI BI Analyst,LHH Recruitment Solutions,Anywhere • via ZipRecruiter,ZipRecruiter,Full-time,1,1,3,0,0,26,86400,115200.0
+261,261,Data Analyst V,Crystal Equation,West Menlo Park,Crystal Equation,Full-time,1,1,4,0,1,24,178560,188160.0
+262,262,"Business Intelligence Engineer, Ring Subscriptions and Software (RSSBI)",Amazon,Sunnyvale,LinkedIn,Full-time,1,0,3,0,1,9,89600,185000.0
+263,263,Senior Business Intelligence System Analyst,Partnership HealthPlan of California,Suisun City,Adzuna,Full-time,0,0,0,0,1,22,118518,154074.0
+265,265,"Data Analyst, People Data Solutions",Meta,Menlo Park,LinkedIn,Full-time,1,0,4,0,1,2,104000,146000.0
+266,266,Business Analyst,ACME Tire,Palo Alto,ZipRecruiter,Full-time,0,0,0,0,1,30,75000,95000.0
+269,269,"Business Intelligence Engineer, Alexa Audio Data and Insights",Amazon,Sunnyvale,LinkedIn,Full-time,1,0,3,1,1,11,89600,185000.0
+272,272,Data Analyst II,Logix Federal Credit Union,California • via SimplyHired,SimplyHired,Part-time,0,0,4,0,0,25,73700,110551.0
+273,273,Survey Data Analyst,Survey Junkie,San Jose,Lively Vacancies,Full-time,0,0,8,0,0,4,249600,249600.0
+279,279,Senior Business Intelligence System Analyst,Partnership HealthPlan of California,Fairfield,ZipRecruiter,Contractor,0,0,0,0,0,22,118518,154074.0
+280,280,Data Analyst and Power BI Report Writer,Intel,Folsom,JobzMall,Contractor,0,0,0,0,0,30,75000,95000.0
+281,281,Power BI Developer - Remote / Telecommute,Cynet Systems,Santa Clara,LinkedIn,Full-time,0,0,4,1,1,30,53760,63360.0
+282,282,Data Analyst,Webconnex LLC,Sacramento,Jooble,Full-time,1,1,2,1,1,30,120000,150000.0
+283,283,Business Intelligence Engineer,Amazon,Cupertino,LinkedIn,Full-time,1,1,3,1,1,11,74100,165600.0
+287,287,Business Intelligence Analyst - Databricks,IntePros,California • via LinkedIn,LinkedIn,Contractor,0,1,7,1,0,1,105600,105600.0
+288,288,Reporting Specialist,Catapult Solutions Group,Mountain View,LinkedIn,Full-time,0,0,0,0,0,4,144000,147840.0
+289,289,Trackwise Business Systems Analyst and Developer,"Amick Brown - SAP, Cloud Technologies and Business Intelligence Staffing & Consulting",Sunnyvale,LinkedIn,Contractor,0,0,5,0,0,30,142080,176640.0
+291,291,Business Analyst,"GTT, LLC",Avila Beach,ZipRecruiter,Full-time,1,1,0,1,0,11,96000,96000.0
+292,292,Senior Business Intelligence System Analyst,Partnership HealthPlan of California,Fairfield,LinkedIn,Full-time,0,0,0,1,0,1,118518,154074.0
+295,295,"Data Engineer, Product Analytics",Meta,Menlo Park,LinkedIn,Full-time,1,0,7,0,1,1,173000,242000.0
+297,297,Staff Data Engineer - Data Science,LinkedIn,Sunnyvale,LinkedIn,Full-time,1,0,4,0,1,3,147000,240000.0
+298,298,GCP Data Engineer (W2),Aptivacorp,Sunnyvale,Indeed,Full-time and Contractor,0,0,5,0,1,2,105600,115200.0
+301,301,AIML - Sr Software Data Infrastructure Engineer - Data and ML Innovation,Apple,Cupertino,Careers At Apple,Full-time,1,1,0,0,1,5,175800,312200.0
+302,302,Lead Data Engineer,San Jose State University,San Jose,Chronicle Of Higher Education,Full-time,0,0,3,1,1,30,7020,13594.0
+303,303,Senior Data Engineer,Acubed by Airbus,Sunnyvale,Acubed - Airbus,Full-time,1,1,5,1,1,30,155000,194000.0
+304,304,(USA) Data Engineer III,Walmart,Hayward,ZipRecruiter,Full-time and Part-time,1,1,4,1,1,7,117000,234000.0
+306,306,Data Engineer III,Sam's Club,Sunnyvale,Indeed,Full-time and Part-time,1,1,4,1,1,16,117000,234000.0
+307,307,Data Engineer IV,Crystal Equation,Sunnyvale,Crystal Equation,Full-time,1,1,0,1,1,30,159360,168960.0
+308,308,"(USA) Senior, Data Engineer",Walmart,Sunnyvale,Walmart Careers,Full-time and Part-time,1,1,8,1,1,30,108000,216000.0
+310,310,Data Engineer (Databricks),NTT DATA,Anywhere • via ZipRecruiter,ZipRecruiter,Full-time,1,1,8,1,1,10,163200,182400.0
+311,311,"Senior Software Engineer, Data Engineering",DoorDash,Sunnyvale,LinkedIn,Full-time,1,1,5,1,1,4,119100,175100.0
+314,314,Senior Software Engineer - Data Engineer,NVIDIA,Santa Clara,JobzMall,Full-time,0,0,0,0,0,30,120000,150000.0
+319,319,Bioinformatics Data Engineer,Revolution Medicines,Anywhere • via VentureLoop,VentureLoop,Full-time,1,0,3,0,1,19,120000,145000.0
+320,320,Senior Data Engineer: 24-01769,Akraya Inc.,Sunnyvale,Akraya,Full-time,0,0,5,1,1,9,130560,144000.0
+321,321,Data Engineer,Moody's Corporation,Newark,Learn4Good,Contractor,1,1,2,1,1,30,60000,80000.0
+322,322,Looking for Principal Big Data Engineer,Xoriant Corporation,Santa Clara,Dice,Full-time,0,0,3,1,1,30,134400,153600.0
+323,323,Senior/Staff Data Engineer,"Gatik AI, Inc.",Mountain View,Ladders,Full-time and Part-time,0,0,7,1,1,30,120000,180000.0
+325,325,Cloud Data Engineer,Ford Motor,Palo Alto,JobzMall,Full-time and Contractor,0,0,0,1,1,30,114000,152000.0
+326,326,Data Engineer W2 Locals,Finezi,Oakland,Glassdoor,Full-time,1,1,0,1,0,10,172800,192000.0
+327,327,Staff Data Platform Engineer,ClassDojo,San Francisco,Greenhouse,Full-time,0,0,7,1,0,30,171500,244000.0
+328,328,Sr. Data Engineer I,Cars Commerce,San Francisco,Taro,Full-time,0,0,0,0,1,30,131000,164000.0
+329,329,Senior/Staff Software Engineer - Simulation Data Platform,Zoox,Foster City,Lever,Full-time,1,1,5,0,1,30,203000,293000.0
+330,330,Senior Software Engineer - Machine Learning Infrastructure - Apple Maps,Apple,Cupertino,Careers At Apple,Full-time,1,1,1,1,1,1,175800,312200.0
+331,331,Specialist - Data Engineering,LTIMindtree,San Jose,Indeed,Full-time,1,1,0,1,1,30,90000,110000.0
+333,333,Snowflake Data Engineer,Tata Consultancy Services,Sunnyvale,Ladders,Full-time and Part-time,0,0,8,1,1,9,217,309120.0
+335,335,IT Data and Analytics Engineer,SAP,Stanford,Adzuna,Full-time,1,0,5,1,1,30,689,322560.0
+337,337,"Data Engineer, Global Payments - USDS",TikTok,Mountain View,Indeed,Full-time,1,1,0,0,1,30,116000,250000.0
+338,338,"Computational Biologist & Engineer in Genomics (Engreitz Lab, Research Data Analyst 1)",School of Medicine,Stanford,Stanford Medicine - Stanford University,Contractor,0,0,0,0,1,30,66560,97000.0
+342,342,Security Data Engineer,Blizzard Entertainment,Foster City,JobzMall,Full-time,0,0,0,0,1,30,110000,172000.0
+345,345,"Senior Data Scientist, ASE iCloud Data Organization [Executive Communications]",Apple,Cupertino,Careers At Apple,Full-time,1,1,5,0,1,30,175800,312200.0
+346,346,Senior Data Infrastructure Engineer,Webflow,San Francisco,Taro,Full-time,0,0,0,1,1,11,158000,218000.0
+347,347,"Principal Engineer, Developer Platform APIs",Snowflake,San Mateo,Snowflake Careers,Full-time,1,1,1,1,1,1,235000,368000.0
+348,348,Sr. Big Data Engineer (Sunnyvale),Zenith Services,San Bruno,Glassdoor,Full-time and Part-time,0,0,0,1,1,30,153600,153600.0
+350,350,Data Platform Engineer (US),Onehouse,Sunnyvale,Lever,Full-time,1,1,3,1,1,30,150000,220000.0
+352,352,Data Engineer (Databricks),NTT DATA,Santa Clara,Indeed,Full-time,1,1,8,1,0,10,163200,182400.0
+354,354,"Data Engineer, Ads",Unity,San Francisco,JobzMall,Full-time,0,0,0,0,1,30,90000,150000.0
+356,356,"Solutions Architect, Data Engineering & Snowpark",Snowflake,California • via Snowflake Careers,Snowflake Careers,Full-time,1,1,6,1,1,1,147000,204700.0
+359,359,Data Platform Engineer,Figure Markets,Anywhere • via Indeed,Indeed,Full-time,1,1,6,1,1,30,960,245760.0
+363,363,Senior Data Engineer,Zoox,Foster City,ZipRecruiter,Full-time,1,1,0,1,1,30,143000,245000.0
+365,365,Senior Data Engineer - BPR Insight,Apple,Elk Grove,Careers At Apple,Full-time,1,1,8,0,1,30,187000,280800.0
+366,366,Head of Data Engineering,"Samsung Electronics America, Inc.",Mountain View,ZipRecruiter,Full-time,1,0,8,0,1,12,275500,325000.0
+367,367,Data Analytics and Engineering Sr. Manager,Motion Recruitment,Los Angeles,Motion Recruitment,Full-time,0,0,5,0,0,2,140000,200000.0
+368,368,Data Engineer,Robert Half,Torrance,Robert Half,Full-time,0,0,0,0,0,17,111360,115200.0
+369,369,"Lead Data Engineer, Data Platform","Tubi, Inc.",Anywhere • via Karkidi,Karkidi,Full-time,0,0,7,0,0,30,120000,190000.0
+371,371,Data Defense Solutions Engineer,TikTok,San Jose,Indeed,Full-time,1,1,0,1,1,30,147000,270000.0
+373,373,Electrical/Data Engineer,DCS Corp,Ridgecrest,DCS Corp,Full-time,0,0,5,1,1,14,79616,110000.0
+374,374,Staff Data Platform Engineer,ClassDojo,San Francisco,Jooble,Full-time,0,0,7,0,0,30,171500,244000.0
+375,375,Data Engineer,Guitar Center,Westlake Village,Glassdoor,Full-time,0,0,5,0,0,30,116000,130000.0
+378,378,Sr. Data Engineer (Platform),GoodRx,Anywhere • via Built In NYC,Built In NYC,Full-time,1,1,8,1,1,15,121000,257000.0
+379,379,Data Engineer I,GumGum,Santa Monica,Greenhouse,Full-time and Part-time,1,0,2,1,1,30,119000,137000.0
+380,380,Software / Data Engineer (1399),Zapata Technology,Del Rey Oaks,Adzuna,Full-time,0,0,4,1,1,3,105000,138000.0
+381,381,Senior Data Engineer,Walmart,Danville,Prime Job Seekers,Contractor,1,1,7,1,1,6,117000,234000.0
+382,382,Business Intelligence Engineer,Amazon,Cupertino,LinkedIn,Full-time,1,1,3,1,1,11,74100,165600.0
+385,385,Data Engineer,Wipro Limited,Sacramento,OPTnation,Full-time,0,0,3,0,0,30,125000,135000.0
+386,386,Director of Data Engineering & Analytics,Wellth,Marina Del Rey,Greenhouse,Full-time,1,1,7,0,0,30,200000,200000.0
+387,387,Sr. Data Engineer with AWS experience,AVM Consulting,Anywhere • via Built In Los Angeles,Built In Los Angeles,Full-time,0,0,5,0,0,13,100000,220000.0
+392,392,Data Engineer,Robert Half,Calabasas,Job,Full-time,0,0,0,0,0,3,268800,268800.0
+393,393,10453 - Data Engineer I,Hyundai Autoever America,Fountain Valley,Dice.com,Full-time,0,0,0,0,0,12,69390,90200.0
+395,395,Data Engineer,ScaleneWorks,Aliso Viejo,Jooble,Full-time and Part-time,0,0,4,0,0,7,70000,
+396,396,Data Engineer,Planck Technology,California City,OPTnation,Contractor,0,0,4,0,0,30,80000,100000.0
+399,399,"Data Engineer , Stores FinTech",Amazon,La Puente,Ladders,Full-time,0,0,1,1,1,30,913,251520.0
+402,402,Azure Data Engineer,VISART,Claremont,OPTnation,Full-time,0,0,7,1,1,30,107000,107000.0
+404,404,"Data Engineer, Amazon Smart Vehicles",Amazon,Irvine,LinkedIn,Full-time and Part-time,1,0,1,1,1,11,91200,185000.0
+405,405,Data Engineer Lead,ASR Analytics,Rancho Cordova,Ladders,Contractor,0,0,5,0,1,30,150000,170000.0
+411,411,Business Intelligence Data Engineer,MotorTrend Group,El Segundo,Ladders,Full-time,0,0,4,0,0,30,187000,200000.0
+412,412,DATA ENGINEER,VSolvit,Norco,Indeed,Full-time,1,1,5,0,0,30,90000,105000.0
+413,413,Data Engineer,The Guitar Center Company,Westlake Village,LinkedIn,Full-time and Part-time,0,0,5,0,0,24,116000,130000.0
+414,414,Data Engineer,AltaMed Health Services,Montebello,Learn4Good,Full-time,1,1,5,1,1,30,80000,100000.0
+420,420,Sr. Data Engineer,Frontend Arts,Gold Beach,Ladders,Full-time,0,0,0,0,1,22,217,309120.0
+424,424,Knowledge Graph / Data Engineering - Manager,PwC,California • via LinkedIn,LinkedIn,Full-time,1,1,5,1,1,9,100000,232000.0
+425,425,Data Engineer,Ensign Services,San Juan Capistrano,Indeed,Full-time,1,1,3,1,1,25,90000,130000.0
+426,426,AWS Data Engineer,"UNICON International, Inc.",Torrance,ZipRecruiter,Full-time and Part-time,1,1,5,1,1,24,272640,291840.0
+429,429,Data Analyst/Engineer,PragerU,Anywhere • via ZipRecruiter,ZipRecruiter,Full-time,1,0,4,1,1,8,135000,150000.0
+433,433,Data Engineering Intern,Pacific Life,Newport Beach,LinkedIn,Full-time and Part-time,0,0,0,1,1,17,48000,57600.0
+442,442,"SENIOR, DATA SCIENTIST - MACHINE LEARNING ENGINEER",Walmart,Portola Valley,Prime Job Seekers,Full-time and Part-time,1,1,5,1,1,6,117000,234000.0
+443,443,"SENIOR, DATA SCIENTIST - MACHINE LEARNING ENGINEER",Walmart,Daly City,Prime Job Seekers,Full-time and Part-time,1,1,5,1,1,6,117000,234000.0
+444,444,SOFTWARE ENGINEER III- BACK END DATA,Walmart,South San Francisco,Prime Job Seekers,"Full-time, Part-time, and Internship",1,1,5,1,1,6,117000,234000.0
+446,446,"(USA) SENIOR, DATA SCIENTIST (COMPUTER VISION ENGINEER)",Walmart,Oakland,Prime Job Seekers,Full-time and Part-time,1,1,5,1,1,6,117000,234000.0
+448,448,ML - Data Scientist,Apple,Sunnyvale,Careers At Apple,Full-time,1,1,4,0,1,4,143100,264200.0
+449,449,"Data Scientist, Square Point of Sale",Block,San Francisco,LinkedIn,Full-time,0,0,3,1,1,1,142000,213000.0
+450,450,Senior Data Scientist,Walmart,Union City,Prime Job Seekers,Full-time and Part-time,1,1,5,1,1,5,117000,234000.0
+452,452,"Data Scientist, Data Strategy and Analytics",Abbott Laboratories,Alameda,Abbott Jobs,Full-time,1,0,8,0,0,4,144100,288300.0
+454,454,Sr Data Scientist,Fanatics,San Mateo,Ladders,Full-time,0,0,4,0,1,2,152000,190000.0
+455,455,"Data Scientist, WW Demand Planning",Apple,Sunnyvale,Careers At Apple,Full-time,1,1,0,0,1,17,165500,248700.0
+456,456,"Data Scientist, TikTok Risk Issues - San Jose",TikTok,San Jose,LinkedIn,Full-time,1,1,0,0,1,3,144000,240000.0
+458,458,"Senior, Data Scientist - Advertising Measurement",Walmart,Fremont,ZipRecruiter,Full-time and Part-time,1,1,5,1,1,5,108000,234000.0
+459,459,"Senior Staff Data Scientist, Product",Google,Sunnyvale,LinkedIn,Full-time,1,0,3,1,1,3,214000,305000.0
+460,460,Lead Biomedical Informatics Data Scientist,Stanford Health Care,Redwood City,LinkedIn,Full-time,0,0,6,0,1,2,122880,163200.0
+461,461,ML Data Scientist - Computer Vision,Apple,Sunnyvale,Careers At Apple,Full-time,1,1,3,1,1,30,143100,264200.0
+462,462,"SENIOR, DATA SCIENTIST - MACHINE LEARNING ENGINEER",Walmart,Union City,Prime Job Seekers,Full-time and Part-time,1,1,5,1,1,6,117000,234000.0
+463,463,Data Scientist,Natera,San Carlos,Glassdoor,Full-time,1,1,2,1,1,9,600,247680.0
+465,465,"Senior, Data Scientist, Machine Learning Platform",Walmart,Sunnyvale,Walmart Careers,Full-time and Part-time,1,1,5,1,1,27,117000,234000.0
+466,466,"Senior Data Scientist, Finance",Snowflake,San Mateo,Snowflake Careers,Full-time,1,1,0,1,1,1,148000,218500.0
+467,467,"Senior Manager, Data Science-Manager of the Center of Excellence in Data Science and AI",PG&E Corporation,Oakland,Pacific Gas And Electric Company - PG&E,Full-time,0,0,4,1,1,30,167000,167000.0
+469,469,Data Scientist,Apple,Sunnyvale,ZipRecruiter,Full-time,0,0,0,1,0,30,136000,249000.0
+472,472,Data Scientist,Glean,Palo Alto,Greenhouse,Full-time,1,1,4,1,1,30,145000,145000.0
+473,473,"Data Scientist, Product Analytics - Machine Learning",Meta,Sunnyvale,LinkedIn,Full-time,1,0,6,1,1,2,173000,242000.0
+474,474,Data Scientist,The Voleon Group,Berkeley,Glassdoor,Full-time,1,1,1,1,1,2,150000,190000.0
+476,476,"Sr. Data Scientist - Marketplace, Ad Platforms",Apple,Cupertino,Careers At Apple,Full-time,1,1,6,0,1,30,143100,264200.0
+477,477,"Assistant Director, Cancer Data Science",School of Medicine,Stanford,Stanford Medicine - Stanford University,Full-time,0,0,3,1,1,30,87000,125000.0
+478,478,Data Scientist (Starlink Growth),SpaceX,Sunnyvale,Ladders,Full-time,1,1,0,1,1,30,130000,180000.0
+479,479,Data Scientist/Senior Data Scientist,C3 AI,Redwood City,LinkedIn,Full-time,1,0,0,1,1,20,123000,185000.0
+480,480,Data Scientist / Senior Data Scientist,"Diagnose Early Holdings, Inc.",Menlo Park,Glassdoor,Full-time,1,1,4,0,1,30,160000,225000.0
+481,481,Senior Data Scientist,Virta Health,Newark,Lively Vacancies,Full-time,0,0,7,1,1,1,996,213.0
+482,482,Data Scientist,Abbott Laboratories,Alameda,Abbott Jobs,Full-time,1,1,1,1,0,2,64000,128000.0
+483,483,Data Scientist,Colsh Consultants,Santa Clara,Indeed,Full-time,0,0,1,1,0,30,64000,128000.0
+485,485,Senior Data Scientist - Retailer,Faire,San Francisco,LinkedIn,Full-time,1,0,3,0,1,2,177500,244000.0
+486,486,"Manager, Product Data Science",Thumbtack,San Francisco,Greenhouse,Full-time,0,0,7,0,1,6,191250,247500.0
+488,488,"Senior Data Scientist, ASE iCloud Data Organization [Executive Communications]",Apple,Cupertino,Careers At Apple,Full-time,1,1,5,0,1,30,175800,312200.0
+489,489,Staff Data Scientist,Unity Technologies,San Francisco,Adzuna,Full-time,0,0,0,1,1,30,183700,248600.0
+490,490,"Staff, Data Scientist",Walmart,Sunnyvale,Walmart Careers,Full-time and Part-time,1,1,6,1,1,30,143000,286000.0
+491,491,Data Scientist,The Voleon Group,Berkeley,Lever,Full-time,1,1,1,1,1,30,150000,190000.0
+493,493,Intern - Data Scientist,Genentech,South San Francisco,JobzMall,Full-time,0,0,0,0,0,30,85000,100000.0
+495,495,"Data Scientist, Finance",Meta,Menlo Park,LinkedIn,Full-time,1,0,5,0,1,9,173000,242000.0
+497,497,Senior Data Scientist,Walmart,Piedmont,Prime Job Seekers,Full-time and Part-time,1,1,5,1,1,5,117000,234000.0
+498,498,Data Scientist - Product Marketing and Customer Analytics,Apple,Cupertino,Careers At Apple,Full-time,1,1,5,1,1,30,165500,248700.0
+501,501,"Staff, Data Scientist - AdTech",Walmart,Sunnyvale,Walmart Careers,Full-time and Part-time,1,1,6,1,1,30,143000,286000.0
+502,502,Fraud Risk Data Scientist,BILL,Campbell,Adzuna,Full-time,1,1,2,1,1,30,110200,132100.0
+503,503,"Data Scientist, Product Analytics",Meta,Sunnyvale,LinkedIn,Full-time,1,0,2,1,1,22,114000,171000.0
+504,504,Senior Data Scientist,Walmart,Millbrae,Prime Job Seekers,Full-time and Part-time,1,1,5,1,1,5,117000,234000.0
+505,505,Data Scientist (User Growth),Jerry,San Francisco,ZipRecruiter,Full-time,0,0,4,1,1,9,240,3840.0
+507,507,Senior Data Scientist,Virta Health,South San Francisco,Lively Vacancies,Full-time,0,0,7,0,1,1,996,213.0
+509,509,"AIML - Sr Data Scientist, AIML Data",Apple,Cupertino,Careers At Apple,Full-time,1,1,5,0,1,30,143100,264200.0
+511,511,Senior Data Scientist,Walmart,San Carlos,Prime Job Seekers,Full-time,1,1,5,1,1,5,117000,234000.0
+512,512,"Senior Data Scientist, Product",Google,Mountain View,The Muse,Full-time,1,0,8,1,1,13,142000,211000.0
+513,513,"Sr. Data Scientist, Analytics & Insights",Amazon Web Services (AWS),Santa Clara,LinkedIn,Full-time,1,0,5,0,1,7,143300,247600.0
+514,514,"Data Scientist, GTM",OpenAI,San Francisco,ZipRecruiter,Full-time,0,0,6,0,1,10,245000,310000.0
+515,515,Senior Data Scientist,Virta Health,Brisbane,Lively Vacancies,Full-time,0,0,7,0,1,1,996,213.0
+516,516,Data Scientist - TikTok E-commerce Governance,TikTok,San Jose,LinkedIn,Full-time and Part-time,1,1,2,1,1,19,130000,240000.0
+517,517,Senior Data Scientist,Walmart,Pleasant Hill,Prime Job Seekers,Full-time,1,1,5,1,1,5,117000,234000.0
+518,518,Lead Data Scientist (User Growth),Jerry,San Francisco,ZipRecruiter,Full-time,0,0,4,1,1,9,240,3840.0
+519,519,Machine Learning Scientist - Health Sensing,Apple,Cupertino,Careers At Apple,Contractor,1,1,3,0,1,30,207800,312200.0
+520,520,Entry/Junior Level Data Scientist/Python Programmer,SynergisticIT,San Jose,LinkedIn,Full-time,0,0,0,0,1,30,192000,192000.0
+521,521,"Director, Data Science and AI - IS Clinical Research - Full Time 8 Hour Days (Exempt) (Non-Union)",Keck Medicine of USC,California • via Careers At USC - University Of Southern California,Careers At USC - University Of Southern California,Full-time and Part-time,0,0,5,1,1,30,133120,219648.0
+522,522,"Staff, Data Scientist-- Walmart Fulfillment Services",Walmart,San Bruno,Walmart Careers,Full-time,1,1,7,1,1,30,132000,264000.0
+523,523,Senior Data Scientist,Virta Health,Daly City,Lively Vacancies,Full-time,0,0,7,1,1,1,996,213.0
+524,524,"Senior Data Scientist, Ecommerce - USDS",TikTok,Mountain View,LinkedIn,Full-time,1,1,0,0,1,22,355,329.0
+525,525,Data Scientist,"Fullpower Technologies, Inc.",Santa Cruz,Glassdoor,Full-time and Part-time,1,0,0,0,1,27,130000,170000.0
+528,528,Senior Data Scientist,Walmart,Portola Valley,Prime Job Seekers,Full-time,1,1,5,1,1,5,117000,234000.0
+529,529,Staff Data Scientist,Grindr,San Francisco,LinkedIn,Full-time,1,1,7,1,1,11,168000,198000.0
+530,530,Senior Data Scientist,Virta Health,Albany,Lively Vacancies,Full-time,0,0,7,0,1,1,996,213.0
+531,531,Data Scientist 2,Micron Technology,San Jose,LinkedIn,Full-time,1,1,0,0,1,9,170186,219000.0
+534,534,"Data Scientist, Data Foundation & System",TikTok,San Jose,LinkedIn,Full-time and Part-time,1,1,2,0,1,9,144000,329000.0
+535,535,"Senior Data Scientist, AI Foundations",Capital One,San Jose,Capital One Careers,Full-time,1,0,3,0,1,4,138500,158100.0
+536,536,"Director, Data Science – Customer Engineering",Adobe,San Jose,Adobe Careers,Contractor,0,0,1,0,1,3,191700,345700.0
+539,539,Senior Data Scientist,Virta Health,Tracy,Lively Vacancies,Full-time,0,0,7,1,1,1,996,213.0
+541,541,"Data Scientist, Global Monetization Strategy & Analytics",TikTok,San Jose,LinkedIn,Full-time and Part-time,1,1,5,1,1,20,176000,395000.0
+542,542,"(USA) Staff, Data Scientist",Walmart,Palo Alto,ZipRecruiter,Full-time,1,1,5,1,1,5,143000,286000.0
+543,543,Senior Data Scientist,Virta Health,Martinez,Lively Vacancies,Full-time,0,0,7,1,1,1,996,213.0
+544,544,"Data Scientist, Signal Processing and Machine Learning",Verily,San Bruno,LinkedIn,Full-time,1,0,3,1,1,15,119000,169000.0
+546,546,"SENIOR, DATA SCIENTIST - MACHINE LEARNING ENGINEER",Walmart,San Leandro,Prime Job Seekers,Full-time,1,1,5,1,1,6,117000,234000.0
+548,548,Junior Data Scientist/Analyst (Remote),SynergisticIT,San Jose,LinkedIn,Full-time and Part-time,0,0,0,1,1,30,192000,192000.0
+550,550,Data Scientist (Software Developer III),Russell Tobin,Cupertino,LinkedIn,Full-time and Part-time,1,1,5,1,1,1,153600,163200.0
+551,551,"(USA) Staff, Data Scientist",Walmart,Milpitas,ZipRecruiter,Full-time,1,1,6,1,1,8,143000,286000.0
+552,552,"Senior Data Scientist, Biological Discovery",Calico Life Sciences,South San Francisco,LinkedIn,Full-time,0,0,0,1,1,16,164000,172000.0
+554,554,"Data Scientist, Cloud Planning and Profitability",Google,Sunnyvale,LinkedIn,Full-time and Part-time,1,0,5,1,1,1,150000,223000.0
+556,556,Data Scientist IV,Crystal Equation Corporation,Menlo Park,LinkedIn,Full-time and Part-time,1,1,8,1,1,30,161280,170880.0
+557,557,"SENIOR, DATA SCIENTIST - MACHINE LEARNING ENGINEER",Walmart,San Carlos,Prime Job Seekers,Full-time,1,1,5,1,1,6,117000,234000.0
+558,558,"Sr Data Scientist, Product Analytics - USDS",TikTok,Mountain View,LinkedIn,Full-time,1,1,5,1,1,10,355,329.0
+559,559,Senior Data Scientist,Virta Health,Fairfield,Lively Vacancies,Full-time and Part-time,0,0,7,1,1,1,996,213.0
+560,560,"(USA) Senior, Data Scientist",Walmart,Cupertino,ZipRecruiter,Full-time,1,1,5,1,1,12,117000,234000.0
+562,562,"Sr Data Scientist, ProServe GenAI - Open Reqs",Amazon Web Services (AWS),Santa Clara,LinkedIn,Full-time and Part-time,1,0,8,1,1,8,143300,247600.0
+564,564,Senior Data Scientist,Virta Health,Ripon,Lively Vacancies,Contractor,0,0,7,1,1,1,996,213.0
+565,565,Data Science Specialist,eJAmerica,Mountain View,LinkedIn,Full-time,0,0,5,0,1,17,105600,124800.0
+566,566,Data Science Lead - TikTok Ads- San Jose,TikTok,San Jose,LinkedIn,Full-time and Part-time,1,1,5,1,1,9,153000,296000.0
+567,567,"Staff, Data Scientist - Data Ventures",Walmart,San Mateo,ZipRecruiter,Full-time,1,1,6,1,1,3,110000,286000.0
+568,568,Senior Data Scientist,Virta Health,Petaluma,Lively Vacancies,Full-time,0,0,7,1,1,1,996,213.0
+571,571,"SENIOR, DATA SCIENTIST | PERSONALIZATION",Walmart,San Carlos,Prime Job Seekers,Full-time,1,1,5,1,1,6,117000,234000.0
+572,572,Senior Data Scientist,Virta Health,Salinas,Lively Vacancies,Full-time,0,0,7,1,1,1,996,213.0
+574,574,"(USA) Principal, Data Scientist - ML Architect",Walmart,Cupertino,ZipRecruiter,Full-time,1,1,7,1,1,5,143000,286000.0
+575,575,"Data Scientist/Senior Data Scientist, Proteomics",Calico Life Sciences,South San Francisco,LinkedIn,Full-time,0,0,0,1,1,19,120000,172000.0
+576,576,Senior Data Scientist,Virta Health,Red Bluff,Lively Vacancies,Full-time and Part-time,0,0,7,1,1,1,996,213.0
+577,577,"SENIOR, DATA SCIENTIST - MACHINE LEARNING ENGINEER",Walmart,Danville,Prime Job Seekers,Contractor,1,1,5,1,1,6,117000,234000.0
+578,578,Junior Data Scientist - Remote,SynergisticIT,San Francisco,LinkedIn,Full-time,0,0,0,1,1,30,192000,192000.0
+579,579,Data Scientist - Ops & Finance,Hazel Health,Anywhere • via LinkedIn,LinkedIn,Full-time and Part-time,1,1,5,1,1,30,125000,150000.0
+580,580,"(USA) Staff, Data Scientist",Walmart,Berkeley,ZipRecruiter,Full-time,1,1,5,1,1,10,143000,286000.0
+581,581,Senior Data Scientist,Virta Health,Woodlake,Lively Vacancies,Full-time,0,0,7,1,1,1,996,213.0
+585,585,Senior Data Scientist,Virta Health,Los Banos,Lively Vacancies,Full-time and Part-time,0,0,7,1,1,1,996,213.0
+586,586,"Senior, Data Scientist - Ad Measurement",Walmart,San Leandro,ZipRecruiter,Full-time,1,1,5,1,1,3,108000,234000.0
+587,587,"Data Scientist, Ads Insight and Measurement",Google,Mountain View,LinkedIn,Full-time and Part-time,1,0,3,1,1,22,127000,187000.0
+588,588,"SENIOR, DATA SCIENTIST - MACHINE LEARNING ENGINEER",Walmart,Campbell,Prime Job Seekers,Full-time,1,1,5,1,1,6,117000,234000.0
+589,589,Data Analytics Engineer,Natron Energy,Santa Clara,LinkedIn,Full-time,1,1,2,1,1,30,106500,155500.0
+590,590,Senior Data Scientist,Virta Health,Lakeport,Lively Vacancies,Full-time,0,0,7,1,1,1,996,213.0
+591,591,"Data Scientist, Data Lake",Topcon Healthcare,California • via LinkedIn,LinkedIn,Full-time and Part-time,1,1,2,1,1,1,70000,110000.0
+592,592,"SENIOR, DATA SCIENTIST - MACHINE LEARNING ENGINEER",Walmart,South San Francisco,Prime Job Seekers,Full-time,1,1,5,1,1,6,117000,234000.0
+593,593,Senior Data Scientist,Virta Health,Orange Cove,Lively Vacancies,Contractor,0,0,7,1,1,1,996,213.0
+594,594,Data Scientist/Engineer(Entry Level),SynergisticIT,Berkeley,LinkedIn,Contractor,0,0,0,0,0,30,192000,192000.0
+595,595,Data Analyst (ENTRY LEVEL),SynergisticIT,San Francisco,LinkedIn,Full-time and Part-time,0,0,0,1,1,30,192000,192000.0
+596,596,"SENIOR, DATA SCIENTIST - MACHINE LEARNING ENGINEER",Walmart,Atherton,Prime Job Seekers,Full-time,1,1,5,1,1,6,117000,234000.0
+597,597,Senior Data Scientist,Virta Health,Placerville,Lively Vacancies,Full-time,0,0,7,1,1,1,996,213.0
+599,599,"(USA) Staff, Data Scientist",Walmart,South San Francisco,ZipRecruiter,Full-time,1,1,5,1,1,15,143000,286000.0
+600,600,"Data Scientist, Product Analytics",Meta,San Francisco,LinkedIn,Full-time,1,0,4,1,1,14,134000,204000.0
+601,601,Senior Data Scientist,Virta Health,Farmersville,Lively Vacancies,Full-time,0,0,7,1,1,1,996,213.0
+602,602,Staff Data Scientist,GoFundMe,San Francisco,LinkedIn,Full-time and Part-time,1,1,8,1,1,11,170000,230000.0
+603,603,"SENIOR, DATA SCIENTIST | SEARCH TEAM | SUNNYVALE",Walmart,Berkeley,Prime Job Seekers,Full-time,1,1,5,1,1,6,117000,234000.0
+604,604,Senior Data Scientist,Virta Health,Maricopa,Lively Vacancies,Full-time,0,0,7,1,1,1,996,213.0
+605,605,Data Scientist,Booz Allen Hamilton,Monterey,LinkedIn,Full-time and Part-time,1,0,2,1,1,2,96600,220000.0
+608,608,Senior Data Scientist,Virta Health,Dos Palos,Lively Vacancies,Full-time,0,0,7,0,1,1,996,213.0
+609,609,"Data Engineer, Product Analytics",Meta,Menlo Park,LinkedIn,Full-time and Part-time,1,0,7,1,1,1,173000,242000.0
+612,612,Senior Data Scientist,Virta Health,Clearlake,Lively Vacancies,Full-time,0,0,7,0,1,1,996,213.0
+613,613,"Data Scientist Manager II, Research",Google,Mountain View,LinkedIn,Full-time and Part-time,1,0,8,1,1,10,177000,266000.0
+614,614,"SENIOR, DATA SCIENTIST - MACHINE LEARNING ENGINEER",Walmart,Albany,Prime Job Seekers,Full-time,1,1,5,1,1,6,117000,234000.0
+615,615,"Staff Data Scientist, Marketing",Block,San Francisco,LinkedIn,Full-time,0,0,1,1,1,12,207900,311900.0
+616,616,Senior Data Scientist,Virta Health,Weldon,Lively Vacancies,Full-time,0,0,7,0,1,1,996,213.0
+617,617,"Sr. Responsible AI Data Scientist, Generative AI Innovation Center",Amazon Web Services (AWS),San Francisco,LinkedIn,Full-time,1,0,5,0,1,5,143300,247600.0
+618,618,Senior Data Scientist,Virta Health,Gridley,Lively Vacancies,Full-time and Part-time,0,0,7,1,1,1,996,213.0
+619,619,"SENIOR, DATA SCIENTIST | PERSONALIZATION",Walmart,Half Moon Bay,Prime Job Seekers,Full-time,1,1,5,1,1,6,117000,234000.0
+621,621,"Data Scientist III, Research",Google,Sunnyvale,LinkedIn,Full-time,1,0,3,0,1,8,127000,187000.0
+622,622,Senior Data Scientist,Virta Health,Santa Maria,Lively Vacancies,Full-time,0,0,7,0,1,1,996,213.0
+623,623,"Sr Data Scientist, ProServe GenAI - Open Reqs",Amazon Web Services (AWS),San Francisco,LinkedIn,Full-time,1,0,8,0,1,8,143300,247600.0
+624,624,Senior Data Scientist,Virta Health,Chowchilla,Lively Vacancies,Full-time and Part-time,0,0,7,1,1,1,996,213.0
+627,627,"Staff Data Scientist, Product, Ads Privacy and Safety",Google,San Francisco,LinkedIn,Full-time,1,0,7,1,1,10,168000,252000.0
+628,628,"Data Scientist, Finance",Whatnot,Anywhere • via LinkedIn,LinkedIn,Full-time and Part-time,1,1,6,1,1,5,126000,200000.0
+630,630,"Senior Data Scientist, Fraud Risk",Block,San Francisco,LinkedIn,Contractor,0,0,5,1,1,12,142000,213000.0
+633,633,Senior Data Scientist,Walmart,Watsonville,Prime Job Seekers,Full-time and Part-time,1,1,5,1,1,5,117000,234000.0
+634,634,Senior Data Scientist,Walmart,Gilroy,Prime Job Seekers,Contractor,1,1,5,1,1,5,117000,234000.0
+637,637,"SENIOR, DATA SCIENTIST | PERSONALIZATION",Walmart,Watsonville,Prime Job Seekers,Full-time,1,1,5,1,1,6,117000,234000.0
+639,639,Machine Learning Research Engineer,Voltai,Palo Alto,LinkedIn,Full-time,1,1,0,0,1,2,150000,350000.0
+640,640,Lead Machine Learning Engineer,Adobe,San Jose,Adobe Careers,Full-time,0,0,8,0,1,3,150700,284400.0
+642,642,"Machine Learning Engineer, 5+ Years Experience",Snap Inc.,Palo Alto,Built In San Francisco,Full-time,1,0,5,1,0,9,172000,303000.0
+643,643,Senior Machine Learning Engineer - GenAI,Sony Interactive Entertainment,San Mateo,LinkedIn,Full-time,1,1,0,1,1,3,187700,281500.0
+644,644,"Sr. Machine Learning Services Engineer, Adobe Firefly",Adobe,San Jose,Adobe Careers,Full-time,0,0,0,1,1,3,170900,325200.0
+645,645,Senior Machine Learning Engineer- Data,Luma AI,Palo Alto,Lever,Full-time,1,0,5,0,1,30,180000,250000.0
+646,646,Multimodal and Generative ML Engineer - Health Sensing,Apple,Cupertino,Careers At Apple,Full-time,1,1,3,0,1,30,143100,264200.0
+647,647,Founding Machine Learning Engineer,Mineflow,Anywhere • via Y Combinator,Y Combinator,Full-time,0,0,0,0,1,30,80000,150000.0
+648,648,Machine Learning Engineer 5,Adobe,San Francisco,Adobe Careers,Full-time,0,0,0,0,1,3,150700,284400.0
+649,649,Senior Staff Machine Learning Engineer - Delivery Matching,Uber,Sunnyvale,Uber,Full-time,1,0,8,0,1,18,252000,280000.0
+650,650,Cellular 4G/5G Firmware Data Science & Machine Learning Engineer,Apple,Sunnyvale,Careers At Apple,Full-time,1,1,3,0,1,30,143100,264200.0
+653,653,Senior Machine Learning Engineer,Hive,San Francisco,Lever,Full-time,0,0,5,0,1,30,160000,250000.0
+655,655,Machine Learning Research Engineer,Voltai,Palo Alto,LinkedIn,Full-time,1,1,0,0,1,2,150000,350000.0
+656,656,Lead Machine Learning Engineer,Adobe,San Jose,Adobe Careers,Full-time,0,0,8,0,1,3,150700,284400.0
+658,658,"Machine Learning Engineer, 5+ Years Experience",Snap Inc.,Palo Alto,Built In San Francisco,Full-time,1,0,5,1,0,9,172000,303000.0
+659,659,Senior Machine Learning Engineer - GenAI,Sony Interactive Entertainment,San Mateo,LinkedIn,Full-time,1,1,0,1,1,3,187700,281500.0
+660,660,"Sr. Machine Learning Services Engineer, Adobe Firefly",Adobe,San Jose,Adobe Careers,Full-time,0,0,0,1,1,3,170900,325200.0
+661,661,Senior Machine Learning Engineer- Data,Luma AI,Palo Alto,Lever,Full-time,1,0,5,0,1,30,180000,250000.0
+662,662,Multimodal and Generative ML Engineer - Health Sensing,Apple,Cupertino,Careers At Apple,Full-time,1,1,3,0,1,30,143100,264200.0
+663,663,Founding Machine Learning Engineer,Mineflow,Anywhere • via Y Combinator,Y Combinator,Full-time,0,0,0,0,1,30,80000,150000.0
+664,664,Machine Learning Engineer 5,Adobe,San Francisco,Adobe Careers,Full-time,0,0,0,0,1,3,150700,284400.0
+665,665,Senior Staff Machine Learning Engineer - Delivery Matching,Uber,Sunnyvale,Uber,Full-time,1,0,8,0,1,18,252000,280000.0
+666,666,Cellular 4G/5G Firmware Data Science & Machine Learning Engineer,Apple,Sunnyvale,Careers At Apple,Full-time,1,1,3,0,1,30,143100,264200.0
+669,669,Senior Machine Learning Engineer,Hive,San Francisco,Lever,Full-time,0,0,5,0,1,30,160000,250000.0
+670,670,Machine Learning Engineer - E-commerce Recommendation,TikTok,San Jose,Glassdoor,Full-time,1,1,0,1,1,30,137000,205000.0
+671,671,"Senior, Data Scientist - Machine Learning Engineer",Walmart,Cupertino,ZipRecruiter,Full-time and Part-time,1,1,5,1,1,5,117000,234000.0
+672,672,Machine Learning Engineer II - Driver Pricing,Uber,San Francisco,Uber,Full-time,1,0,5,1,1,16,158000,175500.0
+674,674,"Machine Learning Engineer, App Ads and Gaming",TikTok,San Jose,LinkedIn,Full-time,1,1,3,0,1,20,137000,205000.0
+675,675,Senior Machine Learning Engineer (Applied ML),EarnIn,Palo Alto,Greenhouse,Full-time,0,0,3,0,1,30,232200,283300.0
+677,677,Applied Machine Learning Engineer,Nooks,San Francisco,Glassdoor,Full-time,1,0,3,0,1,30,140000,240000.0
+678,678,"Senior Machine Learning Engineer, Autonomy ML Infra",Nuro,Mountain View,LinkedIn,Full-time,1,0,4,0,1,4,167200,250800.0
+680,680,Machine Learning Engineer,Elicit,Oakland,Jobs,Full-time,1,1,0,0,1,30,2000,2000.0
+681,681,"Staff / Principal Machine Learning Engineer, Speech - USA",Inworld AI,Mountain View,Greenhouse,Full-time,1,0,6,0,1,30,240000,385000.0
+682,682,Senior Software Engineer - Machine Learning Infrastructure - Apple Maps,Apple,Cupertino,Careers At Apple,Full-time,1,1,1,0,1,1,175800,312200.0
+683,683,Lead Engineer Generative AI Product Engineer,Capital One,San Francisco,Capital One Careers,Full-time and Part-time,1,0,6,0,1,10,170700,194800.0
+684,684,"Director, Machine Learning Engineering",Workday,Pleasanton,JobzMall,Full-time,0,0,0,0,1,30,126000,203000.0
+685,685,"AI/ML - Machine Learning Engineer, Siri Understanding","Apple, Inc.",Cupertino,Dice.com,Full-time,1,1,0,0,1,30,264,264.0
+686,686,"Machine Learning Engineer, Ecommerce Risk Control",TikTok,San Jose,Glassdoor,Full-time,1,1,3,1,1,30,136000,280000.0
+687,687,"Machine Learning Engineer, Responsible AI",Grammarly,San Francisco,LinkedIn,Full-time,1,1,0,1,1,12,254000,359000.0
+688,688,Senior Machine Learning Engineer - Underwriting & Credit,Block,Anywhere • via Built In San Francisco,Built In San Francisco,Full-time,1,1,8,1,1,12,168000,297000.0
+691,691,Computer Vision and Machine Learning Engineer,Apple,Sunnyvale,Adzuna,Full-time,1,1,3,0,1,30,143000,264000.0
+694,694,"Tech Lead Machine Learning Engineer, Tiktok Business Integrity",TikTok,San Jose,LinkedIn,Full-time,1,1,7,0,1,20,210000,358000.0
+696,696,Computer Vision Machine Learning Engineer,Allnessinc,South San Francisco,ZipRecruiter,Full-time,0,0,0,0,0,30,160000,165000.0
+697,697,(General Hire) Machine Learning Engineer Intern (USDS)- 2025 Summer (PhD),TikTok,Mountain View,LinkedIn,Full-time,1,1,0,0,0,5,115200,115200.0
+698,698,Machine Learning Engineering Manager,Adobe,San Jose,JobzMall,Full-time,0,0,0,0,1,30,123000,220000.0
+699,699,"Sr. Machine Learning Engineer, General Intelligence (AGI)",myGwork - LGBTQ+ Business Community,Sunnyvale,LinkedIn,Full-time,1,0,8,0,1,12,151300,261500.0
+701,701,"Senior Machine Learning Engineer, Financial Crimes, Cash App",Block,San Francisco,LinkedIn,Full-time,0,0,4,0,1,9,163600,245400.0
+703,703,Machine Learning Engineer Intern (Foundation Model Applications)- 2024 Off-Cycle (PHD),TikTok,San Jose,LinkedIn,Full-time,1,1,0,0,1,3,142080,142080.0
+705,705,"Machine Learning Engineer, Recommendation, E-Commerce Alliance",TikTok,San Jose,LinkedIn,Full-time,1,1,2,0,1,20,137000,205000.0
+708,708,Senior AI Engineer,WEXWEXUS,San Jose,WEX Careers,Full-time,1,1,4,0,0,5,241920,322560.0
+710,710,Senior Machine Learning Engineer,FIS Global,Seattle,FIS Global,Full-time,1,0,7,0,0,2,136190,228790.0
+711,711,Machine Learning Engineer I,"Yardi Systems, Inc.",Oxnard,Glassdoor,Full-time,1,1,0,1,1,11,230400,230400.0
+712,712,Machine Learning/AI Engineer,Keysight Technologies,Santa Rosa,LinkedIn,Full-time,1,1,0,1,1,3,115000,181000.0
+713,713,AI/ML Wireless Systems Engineer,Apple,San Diego,Careers At Apple,Full-time,1,1,3,1,1,30,135400,250600.0
+714,714,Senior Machine Learning Engineer,Corning,Charlotte,Jobs At Corning,Full-time,1,1,0,1,1,11,151968,208956.0
+718,718,Software Integration Engineer/Lead for Machine Learning Accelerator,Qualcomm,San Diego,Qualcomm Careers,Full-time,1,0,6,1,1,8,148500,222500.0
+720,720,"Senior Machine Learning Engineer, Prescient LLMs",Genentech,Los Angeles,Careers At Genentech,Full-time,0,0,4,1,1,30,165200,165200.0
+721,721,Senior Machine Learning Engineer - Motion Planning,Motional,United States • via VentureFizz,VentureFizz,Full-time,1,1,5,1,1,30,168000,225000.0
+724,724,Lead Generative AI Machine Learning Engineer (Remote),S&P Global,Albany,The Media Leader Jobs,Full-time,1,0,8,0,0,30,108000,210000.0
+725,725,"Engineering Manager, Machine Learning",Procore,Austin,Procore Technologies,Full-time,0,0,5,0,1,30,183600,252450.0
+726,726,Principal Machine Learning Engineer (Virtual/Remote),US Foods,Streator,USNLX Virtual Jobs - National Labor Exchange,Contractor,1,0,5,0,1,9,132200,210400.0
+727,727,Freelance AI Engineer,Twine,Long Beach,Twine,Full-time,1,1,0,0,1,21,110000,170000.0
+728,728,Senior Software Engineer - Machine Learning,FIS Global,Seattle,FIS Global,Full-time,1,0,5,0,1,2,115590,194180.0
+730,730,AI/ML Engineer - (Remote),SynergisticIT,New York,LinkedIn,Full-time,0,0,0,0,1,30,192000,192000.0
+731,731,Machine Learning Engineer - Supply Chain,Nike,Beaverton,Nike Careers,Full-time,0,0,3,0,0,13,82900,185700.0
+735,735,Principal Machine Learning Engineer,Workday,Boulder,JobzMall,Full-time,0,0,0,0,1,30,115000,175000.0
+737,737,Principal Machine Learning Engineer (Virtual/Remote),US Foods,Streator,US Foods Jobs,Full-time,1,1,5,0,1,9,132200,263000.0
+739,739,"Senior Machine Learning Engineer, Global Services Security Engineering","Amazon Web Services, Inc.",Paeonian Springs,Our Quad Cities Jobs,Full-time,1,0,6,0,1,4,151300,261500.0
+741,741,"Senior Machine Learning Engineer (Python, Spark/Dask, MLOPS)",Capital One,Chicago,Capital One Careers,Full-time,1,0,4,0,0,26,165100,188500.0
+742,742,Machine Learning Engineer: 24-02363,Akraya Inc.,Arlington,Akraya,Full-time,0,0,5,0,1,20,111360,124800.0
+743,743,"Machine Learning Engineer, Delivery Matching",Uber,New York,Uber,Full-time,1,0,2,0,1,9,185000,205500.0
+744,744,Staff Machine Learning Engineer,FIS Global,Seattle,FIS Global,Full-time,1,0,5,1,1,2,189100,317690.0
+745,745,AI & Machine Learning Engineer - Senior - Consulting - Location OPEN,EY,Jefferson City,EY Jobs,Full-time,1,1,6,1,1,30,105800,174800.0
+746,746,Senior Machine Learning Engineer,"Workiva, Inc.",Ames,Milwaukee Jobs,Full-time,1,0,2,1,1,16,102000,173000.0
+747,747,Machine Learning Engineer,Tagup,Salt Lake City,Indeed,Full-time,1,0,0,1,1,30,95000,130000.0
+749,749,"Senior Machine Learning Engineer, Global Services Security Engineering","Amazon Web Services, Inc.",Oakton,Our Quad Cities Jobs,Full-time,1,0,6,0,1,4,151300,261500.0
+750,750,"Manager, Machine Learning Engineering, Content Relevance",Snap Inc.,Seattle,Built In Seattle,Full-time,1,0,8,0,1,17,189000,333000.0
+751,751,Machine Learning Engineer,AeroVironment,Simi Valley,JobzMall,Full-time,0,0,0,0,0,30,90000,130000.0
+754,754,Staff Machine Learning Engineer,General Motors,Frankfort,Adzuna,Full-time,1,1,8,0,0,30,157800,241800.0
+761,761,AI/ML Engineer - Remote,SynergisticIT,Raleigh,LinkedIn,Full-time,0,0,0,0,1,30,192000,192000.0
+762,762,Principle Machine Learning Engineer,Atlassian,Bee Cave,Adzuna,Full-time,1,0,5,0,1,4,229200,305600.0
+763,763,GenAI Machine Learning Engineer; Business Intelligence,Databricks,Bellevue,Built In Seattle,Full-time,1,0,2,1,1,1,142000,180000.0
+765,765,Staff Machine Learning Engineer - Generative AI,Handshake,Remote,ZipRecruiter,Full-time,0,0,7,1,0,30,235000,235000.0
+766,766,Senior Machine Learning Engineer,JPMorgan Chase,Highland,Karkidi,Full-time,0,0,3,1,0,30,160000,240000.0
+767,767,AI & Machine Learning Engineer - Senior - Consulting - Location OPEN,EY,Tallahassee,EY Jobs,Full-time,1,1,6,1,0,30,105800,174800.0
+768,768,Machine Learning Compiler Engineer,Qualcomm,United States • via Glassdoor,Glassdoor,Full-time,1,0,2,1,0,30,133000,200000.0
+771,771,Machine Learning Engineer (Hybrid),"27-1538401 First American Data Tree, LLC",Santa Ana,ZipRecruiter,Full-time,1,1,5,1,1,30,109600,146170.0
+772,772,"Senior Manager, Machine Learning Engineering",Capital One,McLean,SimplyHired,Full-time,1,0,8,1,1,30,234700,267900.0
+773,773,Sr. Staff Machine Learning Engineer,Uber,Seattle,Indeed,Full-time,1,0,0,0,1,30,252000,280000.0
+775,775,Senior / Staff Machine Learning Engineer - Ads,Nextdoor,Bodega Bay,ZipRecruiter,Full-time,1,1,7,0,1,30,190000,355000.0
+778,778,Senior Lead Machine Learning Engineer,Capital One Financial Corporation,Philadelphia,Ladders,Full-time,1,0,8,1,1,30,200000,250000.0
+779,779,Machine Learning Engineer,Chaos Industries,Hermosa Beach,ZipRecruiter,Full-time,1,1,2,1,1,10,160000,220000.0
+781,781,"AIML -Software Development Engineer, Machine Learning Platform and Infrastructure",Apple,Seattle,Careers At Apple,Full-time,1,1,2,0,1,5,135400,250600.0
+782,782,Machine Learning Engineer-eCommerce Business Growth,TikTok,Seattle,Glassdoor,Full-time,1,1,0,1,1,30,200,372480.0
+783,783,"Full Stack Machine Learning Engineer, Senior Analyst - AI CoE",Cardinal Health,Concord,Adzuna,Full-time,1,1,0,1,1,11,151680,113200.0
+784,784,"Data Scientist/Machine Learning Engineer- New York, NY",Bank of America,New York,Karkidi,Full-time,0,0,5,1,1,30,120000,190000.0
+787,787,"Full Stack Machine Learning Engineer, Senior Analyst - AI CoE",Cardinal Health,Nashville,Adzuna,Full-time,1,1,0,1,1,11,151680,113200.0
+790,790,2025 University Graduate - Machine Learning Engineer,Adobe,Waltham,Adzuna,Full-time,0,0,2,0,1,9,7000,196000.0
+791,791,Senior / Lead Machine Learning Engineer,Luminate,United States • via LinkedIn,LinkedIn,Full-time,1,1,8,0,1,4,165000,165000.0
+792,792,Machine Learning Engineer,HP,Spring,ZipRecruiter,Contractor,1,1,5,0,1,30,143850,221550.0
+798,798,"Staff, Software Engineer- Machine Learning Engineering",Sam's Club,Elm Springs,ZipRecruiter,Full-time,1,1,6,1,1,12,110000,220000.0
+802,802,"Senior Machine Learning Engineer, Generative AI Applications (64270BR)",Harvard Business School,Boston,LinkedIn,Full-time,1,1,3,1,1,19,76800,76800.0
+806,806,Junior Machine Learning Engineer,Phoenix Recruitment,Anywhere • via LinkedIn,LinkedIn,Full-time,0,0,1,0,0,1,105600,134400.0
+807,807,Machine Learning Engineer,SynergisticIT,Mount Vernon,LinkedIn,Full-time,0,0,0,1,0,30,192000,192000.0
+810,810,"Staff Machine Learning Engineer, Fakespot",Mozilla,Anywhere • via LinkedIn,LinkedIn,Full-time,1,1,6,0,0,3,208000,285000.0
+813,813,Applied Machine Learning Engineer - Causal Inference Recommendation,DoorDash,Seattle,LinkedIn,Full-time,1,1,3,1,1,1,119100,175100.0
+814,814,AI/ML Engineer,Coda,Anywhere • via LinkedIn,LinkedIn,Full-time,1,1,6,1,1,21,150000,250000.0
+816,816,Machine Learning Engineer - E-commerce Merchant and Creator Growth,TikTok,Seattle,LinkedIn,Full-time,1,1,0,1,1,21,750,237.0
+817,817,Senior AI and Machine Learning Engineer,Hewlett Packard Enterprise,Washington,LinkedIn,Full-time,1,0,5,1,1,23,128000,295000.0
+818,818,Machine Learning Engineer - Platform,Coinbase,Seattle,LinkedIn,Full-time,1,1,0,1,1,20,147900,174000.0
+820,820,Senior Machine Learning Engineer (Computer Vision),AgZen,Somerville,LinkedIn,Full-time,1,1,3,1,1,30,5760,600.0
+821,821,"Senior Machine Learning Engineer, Data Platform",Adobe,Seattle,LinkedIn,Full-time,0,0,0,1,1,4,150700,284400.0
+823,823,Software Engineer Large Model System Graduate (Machine Learning Sys-US) - 2024 Start (BS/MS),ByteDance,Seattle,LinkedIn,Full-time,1,1,0,0,1,21,400,322560.0
+825,825,Lead Machine Learning Engineer,Randstad USA,Frederick,LinkedIn,Full-time,1,1,5,1,0,10,153600,172800.0
+827,827,"Senior Machine Learning Ops Engineer, ML System",ByteDance,Seattle,LinkedIn,Full-time,1,1,2,1,1,15,300,337.0
+829,829,Senior Machine Learning Engineer,QTS Data Centers,Ashburn,LinkedIn,Full-time,1,1,5,1,1,2,102000,174080.0
+830,830,Staff Machine Learning Engineer - Merchant Tax Categorization Service,DoorDash,New York,LinkedIn,Full-time,1,1,6,1,1,1,119100,175100.0
+836,836,Data Analyst,"netPolarity, Inc. (Saicon Consultants, Inc.)",Cupertino,LinkedIn,Contractor,0,0,5,0,0,1,96000,120960.0
+838,838,"Staff Data Analyst, Enterprise Analytics",Zendesk,San Francisco,Zendesk,Full-time,1,0,0,0,0,2,154000,230000.0
+839,839,"Business Intelligence/Data Analyst, Customer Success",Block,San Francisco,LinkedIn,Full-time,0,0,3,0,0,2,111700,167500.0
+841,841,"Data Analyst, Research",Stanford University,Stanford,DataAnalyst.com,Full-time,0,0,0,1,0,2,480,178560.0
+844,844,Data Analyst: 24-02793,Akraya Inc.,San Francisco,Akraya,Contractor,0,0,0,0,0,3,144000,153600.0
+846,846,"Data Analyst, Sales Analytics",Lucid,Newark,DataAnalyst.com,Full-time,0,0,3,0,0,9,108000,146000.0
+852,852,Data Analyst - Limited Term (Open),County of San Mateo,San Mateo,Glassdoor,Full-time,1,1,3,0,1,30,458,280320.0
+853,853,"Data Analyst, Treasury",Wisetack,San Francisco,Greenhouse,Full-time,0,0,5,0,1,30,83300,116600.0
+855,855,"Data Analyst, Revenue Operations",Workday,Pleasanton,DataAnalyst.com,Full-time,0,0,3,0,1,2,107000,161000.0
+859,859,Senior Data Analyst,Klarity,Redwood City,DataAnalyst.com,Full-time,0,0,5,0,0,2,100000,140000.0
+862,862,Survey Data Analyst,Survey Junkie,Newark,Lively Vacancies,Full-time,0,0,8,0,0,4,249600,249600.0
+863,863,"Computational Biologist & Engineer in Genomics (Engreitz Lab, Research Data Analyst 1)",School of Medicine,Stanford,Stanford Medicine - Stanford University,Full-time and Part-time,0,0,0,1,1,30,66560,97000.0
+864,864,"Manager, Business Analysis And Insights - Data Analytics, Walmart Connect",Walmart,San Bruno,Walmart Careers,Full-time,1,1,4,1,1,6,84000,156000.0
+865,865,Data Analyst,NetApp,Campbell,Adzuna,Internship,1,0,0,1,1,30,112200,157800.0
+866,866,Data Analyst (Payments): 24-02389,Akraya Inc.,San Jose,Akraya,Contractor,0,0,0,0,1,30,103680,109440.0
+868,868,Junior Data Scientist/Analyst (Remote),SynergisticIT,San Jose,LinkedIn,Full-time,0,0,0,0,0,30,192000,192000.0
+870,870,Data Analyst- Product Analytics,Walmart,Sunnyvale,JobzMall,Full-time,0,0,0,0,0,30,936,276480.0
+872,872,"Data Entry, Customer Service Specialist and Data Analyst",Rainbow Restoration,San Francisco,Glassdoor,Full-time,0,0,0,1,0,25,57600,57600.0
+873,873,Medical Education Data Analyst,University of California - Riverside,Oakland,Diversity Jobs,"Full-time, Part-time, and Contractor",0,0,0,1,1,5,61000,107000.0
+875,875,It Data Analyst,Matal,San Jose,OPTnation,Full-time,0,0,3,0,1,30,51000,62000.0
+879,879,Data security analyst jobs in atlanta ga,Google,Mountain View,Prominentsportssouth.com,Full-time,0,0,0,0,0,4,76800,76800.0
+883,883,"Data Analyst, E-commerce",TikTok,San Jose,DataAnalyst.com,Full-time,0,0,3,1,1,2,153000,296000.0
+885,885,"AIML - Sr Data Scientist, AIML Data",Apple,Cupertino,Careers At Apple,Contractor,1,1,5,0,1,30,143100,264200.0
+887,887,Data & Business Intelligence Analyst,Candidate Portal,Anywhere • via ZipRecruiter,ZipRecruiter,Full-time,1,1,7,0,0,17,94080,111360.0
+889,889,"Senior Data Analyst, Expenses",Navan,Palo Alto,DataAnalyst.com,Full-time,0,0,5,0,0,2,160000,200000.0
+892,892,Business Reporting Analyst,Apple,Santa Clara,JobzMall,Full-time,0,0,0,0,0,30,74000,95000.0
+893,893,Health Information Management Data Analyst I,Health Plan of San Mateo,South San Francisco,Indeed,Full-time,1,1,0,0,1,30,21120,188160.0
+894,894,"Analytic Product Operation, Data Platform",TikTok,San Jose,Glassdoor,Full-time,1,1,0,0,1,30,72960,126720.0
+897,897,User Growth TikTok Shop Data Analyst - USDS,TikTok,Mountain View,LinkedIn,"Full-time, Part-time, and Contractor",1,1,3,0,1,19,400,339840.0
+898,898,Data Aide 2,School of Medicine,Stanford,Stanford Medicine - Stanford University,Full-time,0,0,0,0,1,30,59520,67200.0
+899,899,Salesforce Data Analyst,Apollose,San Jose,OPTnation,Full-time,0,0,0,0,0,30,103000,104000.0
+900,900,"Associate Director, Data Analyst",Stanford University,Stanford,ZipRecruiter,Full-time,1,0,0,0,0,4,104358,128038.0
+901,901,"Data Analyst, Operations",One Workplace,Santa Clara,DataAnalyst.com,Full-time,0,0,5,1,1,2,507,138240.0
+902,902,Data Analytics Engineer,Natron Energy,Santa Clara,LinkedIn,Full-time,1,1,2,1,1,30,106500,155500.0
+904,904,Junior Administrative Analyst (Policy & Data Development Unit) - Office of the Chief Strategy Officer - SF Municipal Transportation Agency (1820),City and County of San Francisco,San Francisco,SF Careers,Full-time,0,0,0,0,0,30,75608,91936.0
+906,906,"Research Data Analyst (Hybrid Opportunity, 2 Year Fixed Term)",Stanford University,Palo Alto,Ladders,Full-time,0,0,2,1,1,2,82468,106256.0
+907,907,Senior Data Analyst,Harvey,San Francisco,Adzuna,Part-time,1,1,9,1,1,30,155000,220000.0
+908,908,Sr Data Analyst,Atechstar,San Jose,OPTnation,Full-time,0,0,0,1,1,30,106000,108000.0
+909,909,Staff Data Analyst,10x Genomics,Pleasanton,ZipRecruiter,Full-time,1,0,7,0,1,30,186000,252000.0
+910,910,Survey Data Analyst,Survey Junkie,Sunnyvale,Lively Vacancies,Full-time,0,0,8,0,1,4,249600,249600.0
+911,911,"Lead Analyst, Lifecycle Marketing",Docusign,San Francisco,Docusign Careers,Full-time,1,1,8,0,1,30,134900,216975.0
+912,912,"Data Analyst, Program",LifeMoves,Menlo Park,DataAnalyst.com,Full-time,0,0,0,0,1,2,75000,100000.0
+913,913,Senior Data Analyst,Visa Inc.,Foster City,Karkidi,Full-time,0,0,0,0,1,30,160000,240000.0
+916,916,Anti-Fraud Data Analyst - USDS,TikTok,Mountain View,LinkedIn,Full-time,1,1,1,0,1,29,86000,155000.0
+917,917,"Data Analyst, Autonomy",Rivian,Palo Alto,DataAnalyst.com,Contractor,0,0,5,0,1,9,94000,108000.0
+918,918,Survey Data Analyst,Survey Junkie,Santa Clara,Lively Vacancies,Full-time,0,0,8,1,0,4,249600,249600.0
+919,919,SENIOR DATA ANALYST,North East Medical Services,Daly City,Glassdoor,Full-time,1,1,5,1,0,30,784,289920.0
+920,920,Data quality analyst remote jobs,Google,Mountain View,E-Profitcenter.com,Contractor,0,0,0,1,0,4,76800,76800.0
+921,921,Vice President - Cloudera Data Analytics,Cloudera,San Francisco,JobzMall,Full-time,0,0,0,0,1,30,170000,220000.0
+922,922,Data Analyst II,Pinterest,San Francisco,ZipRecruiter,Full-time,0,0,3,0,1,11,114000,200000.0
+923,923,Data Analyst 2,"Ursus, Inc.",San Francisco,Indeed,Part-time,0,0,0,0,1,25,67200,86400.0
+924,924,"Data Scientist, Product Analytics - Machine Learning",Meta,Sunnyvale,LinkedIn,Full-time,1,0,6,0,1,2,173000,242000.0
+925,925,Data Science Analyst,eBay,San Francisco,Karkidi,Full-time,0,0,3,0,1,30,120000,190000.0
+926,926,Survey Data Analyst,Survey Junkie,Redwood City,Lively Vacancies,Contractor,0,0,8,0,1,4,249600,249600.0
+927,927,Senior Data Analyst,Zynga,• via GameJobs.co,GameJobs.co,Contractor,1,1,4,0,1,30,105000,155000.0
+928,928,"Data Analyst, Staff",Bill,San Jose,DataAnalyst.com,Part-time,0,0,6,0,1,9,127000,152000.0
+931,931,Survey Data Analyst,Survey Junkie,San Carlos,Lively Vacancies,Full-time,0,0,8,0,0,4,249600,249600.0
+934,934,"Senior Data Analyst, Advanced Analytics",Gap Inc.,San Francisco,Karkidi,Part-time,1,1,0,1,1,30,160000,240000.0
+935,935,"Senior Data Analyst, Corporate FP&A",Barracuda,Campbell,DataAnalyst.com,Contractor,0,0,4,1,1,4,114000,136000.0
+937,937,Survey Data Analyst,Survey Junkie,Oakland,Lively Vacancies,Full-time,0,0,8,0,0,4,249600,249600.0
+938,938,Junior Data Analyst - (Entry Level),SynergisticIT,San Francisco,LinkedIn,Contractor,0,0,0,0,0,30,192000,192000.0
+939,939,Survey Data Analyst,Survey Junkie,South San Francisco,Lively Vacancies,Part-time,0,0,8,0,0,4,249600,249600.0
+941,941,"Senior Data Analyst, CX",Bill,San Jose,DataAnalyst.com,Full-time,0,0,3,0,0,9,100000,132000.0
+942,942,Entry Level Data Analyst/Engineer,SynergisticIT,San Francisco,LinkedIn,Full-time,0,0,0,0,0,30,192000,192000.0
+943,943,Survey Data Analyst,Survey Junkie,San Bruno,Lively Vacancies,Part-time,0,0,8,0,0,4,249600,249600.0
+944,944,Technical Data Analyst - Full time -W2 Consultants Only,ZIRLEN TECHNOLOGIES INCORPORATED,Mountain View,ZipRecruiter,Full-time,0,0,0,0,1,11,230400,230400.0
+945,945,"Data Scientist, Product Analytics",Meta,Sunnyvale,LinkedIn,Full-time,1,0,2,0,1,22,114000,171000.0
+946,946,Provider Data Analyst II,Central California Alliance for Health (Remote),Hollister,Glassdoor,Full-time,1,1,0,0,1,9,450,203520.0
+947,947,Survey Data Analyst,Survey Junkie,Half Moon Bay,Lively Vacancies,Contractor,0,0,8,0,1,4,249600,249600.0
+949,949,Data Science Analyst,Claritas Rx,South San Francisco,LinkedIn,Contractor,0,0,2,0,0,29,75000,110000.0
+951,951,Data Science Specialist,eJAmerica,Mountain View,LinkedIn,Full-time,0,0,5,1,1,17,105600,124800.0
+952,952,"Senior Manager, Data Analytics - Walmart Connect Advertising Sales",Walmart,Redwood City,ZipRecruiter,Contractor,1,1,6,1,1,3,108000,216000.0
+953,953,Data Analyst 2,"Ursus, Inc.",San Francisco,LinkedIn,Full-time,0,0,0,1,1,25,67200,86400.0
+954,954,Reporting Analyst Marketing dept: 24-02369,Akraya Inc.,Palo Alto,Akraya,Full-time,0,0,3,0,0,13,67200,76800.0
+961,961,Data Science Analyst,Cynet Systems,Sunnyvale,ZipRecruiter,Part-time,0,0,5,0,0,30,124800,134400.0
+964,964,"Data Scientist, Ads Insight and Measurement",Google,Mountain View,LinkedIn,Full-time,1,0,3,0,1,22,127000,187000.0
+966,966,Survey Data Analyst,Survey Junkie,Fairfield,Lively Vacancies,Full-time,0,0,8,0,1,4,249600,249600.0
+969,969,Survey Data Analyst,Survey Junkie,American Canyon,Lively Vacancies,Full-time,0,0,8,0,0,4,249600,249600.0
+971,971,Business Analyst II,Elevance Health,Walnut Creek,LinkedIn,Full-time,1,1,3,1,1,1,63888,104544.0
+973,973,Business Analyst III (Software),Xoriant Corporation,Santa Clara,Dice,Contractor,0,0,0,0,1,2,105600,115200.0
+974,974,SAP Functional Business Analyst (SAP SD),Palo Alto Networks,Santa Clara,Palo Alto Networks,Full-time,0,0,5,0,1,9,103600,168300.0
+976,976,"Expert, Business Analyst (Flexible location)",PG&E Corporation,Oakland,Pacific Gas And Electric Company - PG&E,Full-time,0,0,0,0,1,10,114000,114000.0
+978,978,Staff Business Analyst,Sequoia Biotech Consulting,Hayward,ZipRecruiter,Full-time,1,1,9,1,0,3,114124,171187.0
+981,981,Business Analyst,Face Reality Skincare,Danville,Ladders,Full-time,1,0,5,1,0,3,90000,110000.0
+982,982,IT Digital Workplace Business Analyst,Protingent,Sunnyvale,Protingent,Contractor,1,1,1,1,0,6,130560,130560.0
+983,983,Senior Business Analyst,First Citizens Bank,San Francisco,First Citizens Careers - First Citizens Bank,Full-time,1,0,6,1,0,30,137855,186509.0
+988,988,"Business Intelligence/Data Analyst, Customer Success",Block,San Francisco,LinkedIn,Full-time,0,0,3,0,0,2,111700,167500.0
+989,989,Athletics Business Analyst,San José State University,San Jose,Inside Higher Ed Careers,Full-time,1,0,0,0,0,30,4379,7922.0
+990,990,IT Digital Workplace Business Analyst. W2 Only. Locals only,Maxonic,Sunnyvale,ZipRecruiter,Full-time,0,0,1,0,0,4,134400,142080.0
+993,993,"Analytics Manager, Business Analysis and Insights",Walmart,Sunnyvale,Walmart Careers,Full-time,1,1,5,1,1,30,91000,169000.0
+996,996,"Business Systems Analyst, Design Technology",Tesla,Palo Alto,Indeed,Contractor,1,1,0,1,1,30,68000,222000.0
+997,997,Business Systems Analyst - Solidworks,JBL Resources,Sunnyvale,JBL Resources,Full-time,0,0,5,1,1,30,126720,126720.0
+999,999,SAP Functional Business Analyst SAP SD,Palo Alto Networks,Santa Clara,WayUp,Full-time,0,0,5,1,1,4,103600,168300.0
+1000,1000,Business Analyst,Albertsons Companies,Pleasanton,Indeed,Full-time,1,1,0,1,1,16,192000,199680.0
+1001,1001,TEMPORARY BUSINESS ANALYST,University of California Office of the President,Oakland,Higher Education Recruitment Consortium,Full-time,1,0,3,1,1,21,59520,82560.0
+1002,1002,"Business Systems Analyst, Financial Applications",Google,Sunnyvale,LinkedIn,Full-time,1,0,3,0,1,19,102000,150000.0
+1005,1005,"Guidewire Business Analyst Lead, Manager",PwC,Anywhere • via Built In,Built In,Full-time,1,1,5,1,0,1,100000,232000.0
+1007,1007,Senior Business Analyst (SAP Warehouse Management) - 177373,Raise,Sunnyvale,KHON2 Jobs,Full-time,0,0,0,0,1,6,192000,
+1008,1008,Expert Business Analyst,PG&E Corporation,Oakland,Glassdoor,Contractor,0,0,6,1,1,18,114000,182000.0
+1009,1009,technical business analyst,gordon and betty moore foundation,Palo Alto,Jobtrees,Full-time,1,1,7,1,1,30,150000,180000.0
+1011,1011,Business Analyst,smartdept. inc.,Palo Alto,Ladders,Contractor,0,0,5,0,0,30,480,261120.0
+1012,1012,Timekeeping Business Systems Analyst,"University of California, San Francisco",San Francisco,LinkedIn,Full-time,0,0,5,0,0,30,88000,145000.0
+1016,1016,Business Analyst,BayOne,Santa Clara,Glassdoor,Full-time,0,0,5,0,0,30,155520,155520.0
+1017,1017,Business Reporting Analyst,Apple,Santa Clara,JobzMall,Full-time,0,0,0,0,0,30,74000,95000.0
+1020,1020,"Business Analyst, FP&A Systems Strategy and Enablement",Netflix,Los Gatos,Indeed,Full-time,1,1,5,1,1,30,50000,240000.0
+1021,1021,Salesforce Business Analyst,Cosmic-I LLC DBA Northern Base,Pleasanton,Dice,Full-time,0,0,0,1,1,12,115200,124800.0
+1022,1022,Senior Data Analyst,Klarity,Redwood City,DataAnalyst.com,Contractor,0,0,5,1,0,2,100000,140000.0
+1023,1023,Business Analyst - Entry Level,CGI Group Inc,Lafayette,Jora,Full-time,1,0,0,1,0,30,44500,73400.0
+1027,1027,Sr. Technical Business Analyst w / SQL And Python,Federal Reserve Bank of San Francisco,San Francisco,Glassdoor,Full-time,1,1,7,1,1,30,124000,199000.0
+1028,1028,Logistics Business Analyst,Abbott,Alameda,Ladders,Contractor,1,0,6,1,1,30,6000,167000.0
+1030,1030,IT- Business Analyst - Senior,"Sunrise Systems, Inc.",Oakland,Dice.com,Full-time,0,0,5,0,1,30,111360,124800.0
+1032,1032,Business Analyst,BayOne,Santa Clara,SimplyHired,Full-time,0,0,5,0,0,30,155520,155520.0
+1033,1033,Senior IT Business Applications Analyst,Cargo Therapeutics,San Carlos,Jobvite,Full-time,0,0,0,0,0,30,112000,154000.0
+1034,1034,"Business Analyst, Student Financial Operations",Stanford University,Stanford,JobzMall,Full-time,0,0,0,0,0,30,50000,99000.0
+1035,1035,Business Analyst,ACME Tire,Palo Alto,ZipRecruiter,Full-time,0,0,0,0,0,30,75000,95000.0
+1039,1039,Business Intelligence Analyst - USDS,TikTok,Mountain View,LinkedIn,Contractor,1,1,0,0,1,2,400,339840.0
+1040,1040,Business Analyst,smartdept. inc.,Los Altos,Ladders,Full-time,0,0,5,0,1,30,640,272640.0
+1041,1041,Business Analyst,JPS TECH SOLUTIONS,San Bruno,OPTnation,Full-time,0,0,5,1,1,30,111360,130560.0
+1042,1042,Senior Business Analyst,Novoloop,Menlo Park,Indeed,Contractor,1,1,2,1,1,19,100000,140000.0
+1043,1043,"Specialist, Business Analysis",The Bank of New York Mellon,San Francisco,JobzMall,Contractor,0,0,5,1,1,30,723,205440.0
+1050,1050,Purchasing Business Analyst,Alameda Health System,Oakland,Ladders,Full-time,0,0,0,0,0,30,94080,186240.0
+1052,1052,Consulting Group Analyst,Morgan Stanley,Menlo Park,JobzMall,Full-time,0,0,0,1,0,30,105000,135000.0
+1053,1053,Principal Supply Chain and Manufacturing Business Analyst,Shockwave Medical Inc,Anywhere • via ZipRecruiter,ZipRecruiter,Full-time and Contractor,1,1,1,1,0,3,136000,170000.0
+1054,1054,Senior Business Systems Analyst - ERP,Santa Clara Valley Transportation Authority,San Jose,Indeed,Full-time,0,0,0,1,0,30,123000,160000.0
+1055,1055,Business Analyst 4,NextDeavor Inc.,San Francisco,Jooble,Full-time,1,1,0,1,0,6,124800,134400.0
+1057,1057,Business Systems Analyst (Law & Justice),Solano County,Fairfield,GovernmentJobs.com,Full-time,0,0,0,0,0,30,86400,19200.0
+1059,1059,Senior Mobile Workforce Business Analyst,California Water Service,San Jose,ZipRecruiter,Contractor,0,0,1,0,0,17,96500,179200.0
+1062,1062,Content Management (Project Manager or Business analyst),Centraprise,Sunnyvale,Ladders,Full-time,0,0,7,0,0,11,26880,289920.0
+1066,1066,Business Analyst (Tractor Supply/Petsense),Nestle,Brentwood,LocalJobs.com,Full-time,1,0,0,1,1,12,65000,87000.0
+1067,1067,Senior IT Business Analyst - CC&B,PG&E Corporation,Oakland,Ladders,Full-time,0,0,4,1,1,17,105000,169000.0
+1072,1072,Intern Consumer Components Business Analyst,Micron,San Jose,Indeed,Full-time,1,1,0,0,1,18,30720,88320.0
+1076,1076,Mortgage System Analyst,Texans Credit Union,Campbell,Ladders,Contractor,0,0,6,0,0,30,732,249600.0
+1078,1078,Reporting Analyst Marketing dept: 24-02369,Akraya Inc.,Palo Alto,Akraya,Contractor,0,0,3,0,0,13,67200,76800.0
+1080,1080,"Business Analyst, SharePoint",Bayside Solutions,Anywhere • via LinkedIn,LinkedIn,Full-time,0,0,5,0,0,19,124800,145600.0
+1083,1083,Business Analyst,Face Reality,Danville,LinkedIn,Full-time,1,0,5,0,0,12,172800,211200.0
+1084,1084,Business Analyst,The University of San Francisco,San Francisco,ZipRecruiter,Contractor,0,0,5,0,0,30,172800,211200.0
+1089,1089,Senior IT Business Analyst,Partnership HealthPlan of California,Suisun City,Adzuna,Full-time,0,0,1,0,1,30,118518,154074.0
+1094,1094,Business Analyst (Mitigation),Federal Emergency Management Agency,Oakland,ZipRecruiter,Full-time,0,0,0,0,0,6,44160,151680.0
+1098,1098,"Senior Business Analyst ***$4,000 Signing Bonus",Regional Transportation District,San Rafael,Ladders,Full-time,0,0,0,0,0,30,5760,247680.0
+1101,1101,Salesforce Business Analyst,TEKsystems,Alameda,ZipRecruiter,Full-time,1,1,5,1,0,2,134400,163200.0
+1103,1103,Managing Consultant - Life Sciences - Business Analyst,US101 Guidehouse Inc.,San Francisco,ZipRecruiter,Full-time,1,1,5,1,0,5,109100,163700.0
+1108,1108,IT- Business Analyst - Senior,"Sunrise Systems, Inc.",Oakland,LinkedIn,Full-time,0,0,5,0,0,30,111360,124800.0
+1112,1112,"Guidewire Business Analyst Lead, Manager",PwC,San Francisco,LinkedIn,Full-time,1,1,5,1,0,24,100000,232000.0
+1114,1114,Business Analyst,Triunity Software,Alameda,ZipRecruiter,Full-time,0,0,3,0,0,30,65000,80000.0
+1118,1118,Business Support Analyst,ClifyX,San Francisco,LinkedIn,Full-time,0,0,2,0,0,30,42240,69120.0
+1124,1124,Business Analyst (W2),Ask IT consulting,San Francisco,ZipRecruiter,Full-time and Part-time,0,0,6,1,0,24,63360,63360.0
+1125,1125,"Business Analyst, Life Sciences, Managing Consultant",US101 Guidehouse Inc.,San Francisco,ZipRecruiter,Full-time,1,1,5,1,0,30,109100,163700.0
+1129,1129,"Senior Manager, Business Analysis and Insights - Operational Metrics Walmart Connect",Walmart,Daly City,ZipRecruiter,Full-time,1,1,6,1,1,5,80000,202000.0
+1131,1131,Data Engineer - AI/ML,Stanford Health Care,Palo Alto,Talentify,Full-time,0,0,2,0,1,4,172800,193920.0
+1133,1133,Data Engineer,Abbott Laboratories,Alameda,Abbott Jobs,Full-time,1,0,4,0,0,1,95500,190900.0
+1134,1134,"Senior Data Engineer, Amazon Health Science & Analytics",Amazon,San Francisco,Taro,Full-time,0,0,0,0,0,16,139000,240000.0
+1138,1138,Data Engineer / Healthcare Industry,Motion Recruitment,Anywhere • via Motion Recruitment,Motion Recruitment,Contractor,0,0,0,1,1,30,96000,115200.0
+1140,1140,Observability Data Infrastructure Engineer,CVS Health,Sacramento,CVS Health Jobs,Full-time,1,1,7,1,1,2,124372,247200.0
+1141,1141,Senior Data Platform Engineer- Periop,Qventus,Mountain View,Adzuna,Full-time,0,0,5,1,1,22,150000,180000.0
+1142,1142,Director data engineering,Helix,San Mateo,Talent.com,Full-time,1,0,5,1,1,3,178000,283000.0
+1143,1143,Health Data Analyst Engineer,Nuna Inc.,San Francisco,Karkidi,Full-time,0,0,0,1,1,30,120000,190000.0
+1144,1144,Staff backend engineer,Citizen Health,San Mateo,Talent.com,Full-time,1,1,7,0,1,1,200000,235000.0
+1145,1145,Senior Data Scientist / LLM Engineer,Qventus,Mountain View,ZipRecruiter,Full-time,0,0,3,0,1,30,150000,180000.0
+1148,1148,Healthcare Data Analyst (Onsite),"LAKESIDE MEDICAL ORG, A MEDICAL GROUP, INC.",California • via Glassdoor,Glassdoor,Full-time,1,1,0,1,0,3,48000,51840.0
+1149,1149,Sales Engineer Lead (MedInsight),Milliman,Walnut Creek,ZipRecruiter,Full-time,1,1,5,1,0,4,85000,173000.0
+1152,1152,"Principal Software Architect, App Store Analytics & Data Engineering",Apple,Cupertino,Careers At Apple,Full-time,1,1,0,1,1,30,207800,378700.0
+1153,1153,"Staff, Software Engineer - Data",Walmart,Sunnyvale,Walmart Careers,Full-time and Part-time,1,1,6,1,1,30,143000,286000.0
+1154,1154,"Senior, Data Scientist - Machine Learning Engineer",Walmart,Sunnyvale,Walmart Careers,Full-time and Part-time,1,1,5,1,1,30,117000,234000.0
+1156,1156,"(USA) Senior, Software Engineer",Walmart,Fremont,ZipRecruiter,Full-time and Part-time,1,1,5,1,1,14,117000,234000.0
+1157,1157,"Senior, Software Engineer, UI - Data Ventures",Walmart,Sunnyvale,Walmart Careers,Full-time and Part-time,1,1,5,1,1,30,117000,234000.0
